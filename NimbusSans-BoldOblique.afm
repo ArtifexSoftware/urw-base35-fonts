@@ -1,9 +1,9 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 5/31/2016
+Comment Creation Date: 5/17/2017
 FontName NimbusSans-BoldOblique
 FullName Nimbus Sans Bold Italic
-FamilyName NimbusSans
+FamilyName Nimbus Sans
 Weight Bold
 ItalicAngle -12.0
 IsFixedPitch false
@@ -875,7 +875,7 @@ C -1 ; WX 333 ; N zerosuperior ; B 100 271 435 718 ;
 C -1 ; WX 492 ; N zeta ; B 80 -218 619 729 ;
 EndCharMetrics
 StartKernData
-StartKernPairs 3810
+StartKernPairs 3820
 KPX A A 5
 KPX A B -23
 KPX A C -28
@@ -916,6 +916,7 @@ KPX A comma 17
 KPX A d -8
 KPX A e -4
 KPX A g -9
+KPX A k -4
 KPX A gamma -39
 KPX A guillemotleft -42
 KPX A guilsinglleft -39
@@ -1772,8 +1773,8 @@ KPX P y 5
 KPX Phi A -55
 KPX Phi Alpha -55
 KPX Phi Lambda -44
-KPX Phi T -70
-KPX Phi Tau -70
+KPX Phi T -69
+KPX Phi Tau -69
 KPX Phi Upsilon -77
 KPX Phi Y -77
 KPX Phi lambda -40
@@ -1855,7 +1856,7 @@ KPX Rho Alpha -62
 KPX Rho Delta -23
 KPX Rho Lambda -46
 KPX Rho Omicron -12
-KPX Rho Phi -18
+KPX Rho Phi -17
 KPX Rho Tau -5
 KPX Rho Theta -10
 KPX Rho Upsilon -43
@@ -1947,7 +1948,7 @@ KPX T Omicron -32
 KPX T Oslash -37
 KPX T Otilde -31
 KPX T P -15
-KPX T Phi -57
+KPX T Phi -56
 KPX T Q -32
 KPX T R -17
 KPX T S -7
@@ -2028,7 +2029,7 @@ KPX Tau Alpha -80
 KPX Tau Lambda -71
 KPX Tau O -32
 KPX Tau Omicron -32
-KPX Tau Phi -57
+KPX Tau Phi -56
 KPX Tau T 15
 KPX Tau Tau 15
 KPX Tau Upsilon 6
@@ -2161,7 +2162,7 @@ KPX Upsilon Alpha -82
 KPX Upsilon Delta -46
 KPX Upsilon O -50
 KPX Upsilon Omicron -50
-KPX Upsilon Phi -73
+KPX Upsilon Phi -72
 KPX Upsilon T 13
 KPX Upsilon Tau 13
 KPX Upsilon Theta -50
@@ -2394,7 +2395,7 @@ KPX Y Ograve -50
 KPX Y Omicron -50
 KPX Y Oslash -48
 KPX Y Otilde -50
-KPX Y Phi -73
+KPX Y Phi -72
 KPX Y Q -52
 KPX Y S -37
 KPX Y T 13
@@ -2413,6 +2414,8 @@ KPX Y braceright -15
 KPX Y bracketright 12
 KPX Y colon -44
 KPX Y comma -76
+KPX Y c -63
+KPX Y d -64
 KPX Y e -57
 KPX Y eacute -57
 KPX Y eogonek -57
@@ -2422,6 +2425,8 @@ KPX Y guilsinglleft -89
 KPX Y hyphen -49
 KPX Y i -12
 KPX Y iacute -49
+KPX Y m -55
+KPX Y n -57
 KPX Y o -66
 KPX Y odieresis -55
 KPX Y oacute -66
@@ -2435,13 +2440,17 @@ KPX Y pi -47
 KPX Y q -61
 KPX Y quotedblright -3
 KPX Y quotesingle 5
+KPX Y r -57
 KPX Y racute -57
+KPX Y s -67
 KPX Y semicolon -44
 KPX Y u -57
 KPX Y udieresis -55
 KPX Y uacute -55
 KPX Y uhungarumlaut -55
 KPX Y v -37
+KPX Y w -32
+KPX Y z -47
 KPX Yacute Aacute -82
 KPX Yacute Abreve -82
 KPX Yacute Acircumflex -82
@@ -3043,7 +3052,7 @@ KPX afii10062 afii10081 -63
 KPX afii10062 afii10082 -53
 KPX afii10062 afii10083 -74
 KPX afii10062 afii10084 -90
-KPX afii10062 afii10086 -96
+KPX afii10062 afii10086 -97
 KPX afii10062 afii10087 -38
 KPX afii10062 afii10088 -68
 KPX afii10062 afii10089 -45
@@ -4632,6 +4641,7 @@ KPX y hyphen 1
 KPX y j -13
 KPX y l -13
 KPX y o -20
+KPX y n -11
 KPX y oacute -20
 KPX y odieresis -20
 KPX y ograve -20

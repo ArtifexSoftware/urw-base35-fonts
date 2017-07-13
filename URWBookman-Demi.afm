@@ -1,6 +1,6 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 5/31/2016
+Comment Creation Date: 5/17/2017
 FontName URWBookman-Demi
 FullName URW Bookman Demi
 FamilyName URW Bookman
@@ -314,7 +314,7 @@ C -1 ; WX 640 ; N Sigma ; B 6 0 635 681 ;
 C -1 ; WX 700 ; N Tau ; B -4 0 703 681 ;
 C -1 ; WX 700 ; N Tbar ; B -4 0 703 681 ;
 C -1 ; WX 700 ; N Tcaron ; B -4 0 703 904 ;
-C -1 ; WX 700 ; N Tcommaaccent ; B -4 -306 703 681 ;
+C -1 ; WX 700 ; N Tcommaaccent ; B -4 -208 703 681 ;
 C -1 ; WX 800 ; N Theta ; B 35 -13 769 694 ;
 C -1 ; WX 660 ; N Thorn ; B 20 0 658 681 ;
 C -1 ; WX 740 ; N Uacute ; B 15 -13 724 910 ;
@@ -657,7 +657,7 @@ C -1 ; WX 1000 ; N sun ; B 150 -16 850 683 ;
 C -1 ; WX 521 ; N tau ; B 9 -9 507 502 ;
 C -1 ; WX 460 ; N tbar ; B 22 -9 445 661 ;
 C -1 ; WX 459 ; N tcaron ; B 17 -9 465 724 ;
-C -1 ; WX 460 ; N tcommaaccent ; B 22 -306 445 661 ;
+C -1 ; WX 460 ; N tcommaaccent ; B 22 -208 445 661 ;
 C -1 ; WX 996 ; N therefore ; B 185 0 811 630 ;
 C -1 ; WX 642 ; N theta ; B 34 -7 607 735 ;
 C -1 ; WX 645 ; N theta1 ; B -9 -14 644 677 ;
@@ -875,7 +875,7 @@ C -1 ; WX 396 ; N zerosuperior ; B 8 265 392 689 ;
 C -1 ; WX 550 ; N zeta ; B 52 -230 535 736 ;
 EndCharMetrics
 StartKernData
-StartKernPairs 3818
+StartKernPairs 3828
 KPX A A 71
 KPX A B 44
 KPX A C -15
@@ -916,6 +916,7 @@ KPX A comma 34
 KPX A d 16
 KPX A e 12
 KPX A g 40
+KPX A k 43
 KPX A gamma -38
 KPX A guillemotleft -9
 KPX A guilsinglleft -5
@@ -2407,6 +2408,8 @@ KPX Y braceright 24
 KPX Y bracketright 31
 KPX Y colon -36
 KPX Y comma -77
+KPX Y c -75
+KPX Y d -70
 KPX Y e -75
 KPX Y eacute -63
 KPX Y eogonek -75
@@ -2416,6 +2419,8 @@ KPX Y guilsinglleft -86
 KPX Y hyphen -68
 KPX Y i 4
 KPX Y iacute 2
+KPX Y m -53
+KPX Y n -53
 KPX Y o -75
 KPX Y odieresis -19
 KPX Y oacute -72
@@ -2430,13 +2435,17 @@ KPX Y q -75
 KPX Y quotedblright 1
 KPX Y quoteright 1
 KPX Y quotesingle 20
+KPX Y r -53
 KPX Y racute -28
+KPX Y s -60
 KPX Y semicolon -35
 KPX Y u -53
 KPX Y udieresis -28
 KPX Y uacute -28
 KPX Y uhungarumlaut -28
 KPX Y v -31
+KPX Y w -31
+KPX Y z -66
 KPX Yacute Aacute -37
 KPX Yacute Abreve -37
 KPX Yacute Acircumflex -37
@@ -4641,6 +4650,7 @@ KPX y hyphen -25
 KPX y j 9
 KPX y l -13
 KPX y o -16
+KPX y n 18
 KPX y oacute -16
 KPX y odieresis -16
 KPX y ograve -16

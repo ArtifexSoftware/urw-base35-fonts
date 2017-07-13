@@ -1,6 +1,6 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 5/31/2016
+Comment Creation Date: 5/17/2017
 FontName NimbusRoman-Italic
 FullName Nimbus Roman Italic
 FamilyName Nimbus Roman
@@ -314,7 +314,7 @@ C -1 ; WX 594 ; N Sigma ; B -86 0 585 663 ;
 C -1 ; WX 556 ; N Tau ; B 79 0 669 662 ;
 C -1 ; WX 556 ; N Tbar ; B 59 0 633 653 ;
 C -1 ; WX 556 ; N Tcaron ; B 59 0 633 873 ;
-C -1 ; WX 556 ; N Tcommaaccent ; B 59 -219 633 653 ;
+C -1 ; WX 556 ; N Tcommaaccent ; B 59 -216 633 653 ;
 C -1 ; WX 722 ; N Theta ; B 45 -17 740 677 ;
 C -1 ; WX 611 ; N Thorn ; B 0 0 569 653 ;
 C -1 ; WX 722 ; N Uacute ; B 102 -18 765 876 ;
@@ -875,7 +875,7 @@ C -1 ; WX 300 ; N zerosuperior ; B 58 267 339 677 ;
 C -1 ; WX 405 ; N zeta ; B 37 -152 492 723 ;
 EndCharMetrics
 StartKernData
-StartKernPairs 3820
+StartKernPairs 3829
 KPX A A 42
 KPX A B 21
 KPX A C -37
@@ -916,6 +916,7 @@ KPX A comma 19
 KPX A d -8
 KPX A e -20
 KPX A g -19
+KPX A k 4
 KPX A gamma -33
 KPX A guillemotleft -30
 KPX A guilsinglleft -29
@@ -2085,14 +2086,14 @@ KPX Tcommaaccent Adieresis -34
 KPX Tcommaaccent Aogonek -34
 KPX Tcommaaccent aacute -57
 KPX Tcommaaccent aogonek -57
-KPX Tcommaaccent eacute -58
-KPX Tcommaaccent eogonek -58
+KPX Tcommaaccent eacute -64
+KPX Tcommaaccent eogonek -64
 KPX Tcommaaccent nacute -24
 KPX Tcommaaccent ncaron -24
 KPX Tcommaaccent oacute -56
 KPX Tcommaaccent ohungarumlaut -38
 KPX Tcommaaccent racute -37
-KPX Tcommaaccent rcaron -3
+KPX Tcommaaccent rcaron -2
 KPX Tcommaaccent sacute -53
 KPX Tcommaaccent tcaron -25
 KPX Tcommaaccent tcommaaccent -19
@@ -2101,7 +2102,7 @@ KPX Tcommaaccent uhungarumlaut -28
 KPX Tcommaaccent uring -28
 KPX Tcommaaccent yacute 3
 KPX Tcommaaccent zacute -36
-KPX Tcommaaccent zcaron 6
+KPX Tcommaaccent zcaron 7
 KPX Tcommaaccent zdotaccent -36
 KPX Theta A -1
 KPX Theta Alpha -34
@@ -2410,6 +2411,8 @@ KPX Y braceright -26
 KPX Y bracketright -13
 KPX Y colon -42
 KPX Y comma -52
+KPX Y c -57
+KPX Y d -56
 KPX Y e -64
 KPX Y eacute -64
 KPX Y eogonek -64
@@ -2419,6 +2422,8 @@ KPX Y guilsinglleft -73
 KPX Y hyphen -49
 KPX Y i -13
 KPX Y iacute -54
+KPX Y m -48
+KPX Y n -49
 KPX Y o -62
 KPX Y odieresis -49
 KPX Y oacute -62
@@ -2433,13 +2438,17 @@ KPX Y q -61
 KPX Y quotedblright 1
 KPX Y quoteright 1
 KPX Y quotesingle 13
+KPX Y r -62
 KPX Y racute -62
+KPX Y s -62
 KPX Y semicolon -37
 KPX Y u -55
 KPX Y udieresis -44
 KPX Y uacute -55
 KPX Y uhungarumlaut -55
 KPX Y v -32
+KPX Y w -30
+KPX Y z -62
 KPX Yacute Aacute -28
 KPX Yacute Abreve -28
 KPX Yacute Acircumflex -28

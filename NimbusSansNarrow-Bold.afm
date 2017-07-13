@@ -1,6 +1,6 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 5/31/2016
+Comment Creation Date: 5/17/2017
 FontName NimbusSansNarrow-Bold
 FullName Nimbus Sans Narrow Bold
 FamilyName Nimbus Sans Narrow
@@ -875,7 +875,7 @@ C -1 ; WX 273 ; N zerosuperior ; B 6 270 265 718 ;
 C -1 ; WX 413 ; N zeta ; B 28 -215 400 720 ;
 EndCharMetrics
 StartKernData
-StartKernPairs 3781
+StartKernPairs 3791
 KPX A A 19
 KPX A B -4
 KPX A C -24
@@ -916,6 +916,7 @@ KPX A comma 16
 KPX A d -13
 KPX A e -8
 KPX A g -15
+KPX A k -5
 KPX A gamma -29
 KPX A guillemotleft -35
 KPX A guilsinglleft -33
@@ -2387,6 +2388,8 @@ KPX Y braceright 19
 KPX Y bracketright 19
 KPX Y colon -18
 KPX Y comma -61
+KPX Y c -56
+KPX Y d -56
 KPX Y e -51
 KPX Y eacute -51
 KPX Y eogonek -51
@@ -2396,6 +2399,8 @@ KPX Y guilsinglleft -78
 KPX Y hyphen -37
 KPX Y i -3
 KPX Y iacute -31
+KPX Y m -41
+KPX Y n -41
 KPX Y o -60
 KPX Y odieresis -34
 KPX Y oacute -60
@@ -2410,13 +2415,17 @@ KPX Y q -56
 KPX Y quotedblright 4
 KPX Y quoteright 1
 KPX Y quotesingle 1
+KPX Y r -41
 KPX Y racute -41
+KPX Y s -59
 KPX Y semicolon -18
 KPX Y u -44
 KPX Y udieresis -34
 KPX Y uacute -42
 KPX Y uhungarumlaut -42
 KPX Y v -23
+KPX Y w -21
+KPX Y z -33
 KPX Yacute Aacute -66
 KPX Yacute Abreve -66
 KPX Yacute Acircumflex -66
@@ -4601,6 +4610,7 @@ KPX y hyphen 3
 KPX y j -9
 KPX y l -9
 KPX y o -18
+KPX y n -7
 KPX y oacute -18
 KPX y odieresis -18
 KPX y ograve -18

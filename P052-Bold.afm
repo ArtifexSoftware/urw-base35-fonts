@@ -1,6 +1,6 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 5/31/2016
+Comment Creation Date: 5/17/2017
 FontName P052-Bold
 FullName P052 Bold
 FamilyName P052
@@ -314,7 +314,7 @@ C -1 ; WX 645 ; N Sigma ; B 17 -5 637 690 ;
 C -1 ; WX 621 ; N Tau ; B 8 -3 632 692 ;
 C -1 ; WX 667 ; N Tbar ; B 17 -3 650 681 ;
 C -1 ; WX 667 ; N Tcaron ; B 17 -3 650 909 ;
-C -1 ; WX 667 ; N Tcommaaccent ; B 17 -301 650 681 ;
+C -1 ; WX 667 ; N Tcommaaccent ; B 17 -214 650 681 ;
 C -1 ; WX 791 ; N Theta ; B 38 -23 777 706 ;
 C -1 ; WX 611 ; N Thorn ; B 39 -3 574 681 ;
 C -1 ; WX 778 ; N Uacute ; B 26 -17 760 915 ;
@@ -657,7 +657,7 @@ C -1 ; WX 1000 ; N sun ; B 150 -16 850 683 ;
 C -1 ; WX 507 ; N tau ; B 0 -18 501 472 ;
 C -1 ; WX 333 ; N tbar ; B 22 -17 324 632 ;
 C -1 ; WX 429 ; N tcaron ; B 73 -17 499 774 ;
-C -1 ; WX 333 ; N tcommaaccent ; B 22 -301 324 632 ;
+C -1 ; WX 333 ; N tcommaaccent ; B 22 -225 324 632 ;
 C -1 ; WX 1000 ; N therefore ; B 187 0 812 632 ;
 C -1 ; WX 512 ; N theta ; B 31 -18 496 732 ;
 C -1 ; WX 585 ; N theta1 ; B -3 -18 603 733 ;
@@ -875,7 +875,7 @@ C -1 ; WX 360 ; N zerosuperior ; B 47 251 315 657 ;
 C -1 ; WX 414 ; N zeta ; B 31 -191 426 731 ;
 EndCharMetrics
 StartKernData
-StartKernPairs 3792
+StartKernPairs 3802
 KPX A A 23
 KPX A C -56
 KPX A Ccedilla -56
@@ -915,6 +915,7 @@ KPX A comma 7
 KPX A d -19
 KPX A e -21
 KPX A g -2
+KPX A k 17
 KPX A gamma -65
 KPX A guillemotleft -52
 KPX A guilsinglleft -75
@@ -1061,7 +1062,7 @@ KPX Alphatonos sigma 3
 KPX Aogonek C -56
 KPX Aogonek T -53
 KPX Aogonek Tcaron -53
-KPX Aogonek Tcommaaccent -53
+KPX Aogonek Tcommaaccent -45
 KPX Aogonek Y -67
 KPX Aogonek Yacute -67
 KPX Aogonek colon 21
@@ -1129,7 +1130,7 @@ KPX B Ograve -5
 KPX B Oslash -3
 KPX B S -7
 KPX B T -7
-KPX B V -19
+KPX B V -23
 KPX B W -22
 KPX B Y -9
 KPX B Z -22
@@ -1156,7 +1157,7 @@ KPX C Oacute -13
 KPX C Odieresis -13
 KPX C S -2
 KPX C T 21
-KPX C V 22
+KPX C V 20
 KPX C W 22
 KPX C Y 24
 KPX C Z 8
@@ -1198,7 +1199,7 @@ KPX D Atilde -65
 KPX D E -22
 KPX D J -24
 KPX D T -4
-KPX D V -42
+KPX D V -46
 KPX D W -34
 KPX D X -36
 KPX D Y -30
@@ -1330,10 +1331,10 @@ KPX G Adieresis -19
 KPX G Agrave -19
 KPX G Aring -19
 KPX G Atilde -19
-KPX G H -22
+KPX G H -25
 KPX G S -16
-KPX G T -17
-KPX G V -17
+KPX G T -18
+KPX G V -18
 KPX G W -17
 KPX G X -16
 KPX G Y -14
@@ -1585,7 +1586,7 @@ KPX N Alpha -14
 KPX N Aring -24
 KPX N C -18
 KPX N Ccedilla -18
-KPX N G -20
+KPX N G -23
 KPX N O -20
 KPX N Oacute -20
 KPX N Odieresis -20
@@ -1595,7 +1596,7 @@ KPX N Y 20
 KPX N Z -11
 KPX N a -27
 KPX N aacute -27
-KPX N adieresis -16
+KPX N adieresis -20
 KPX N ae -30
 KPX N aring -27
 KPX N comma -12
@@ -1637,7 +1638,7 @@ KPX O Psi -23
 KPX O S -5
 KPX O T -7
 KPX O Upsilon -29
-KPX O V -45
+KPX O V -49
 KPX O W -29
 KPX O X -39
 KPX O Y -33
@@ -1661,7 +1662,7 @@ KPX OE X 25
 KPX OE Z 21
 KPX Oacute A -57
 KPX Oacute T -7
-KPX Oacute V -45
+KPX Oacute V -49
 KPX Oacute W -29
 KPX Oacute Y -33
 KPX Oacute Z -21
@@ -1670,11 +1671,11 @@ KPX Oacute comma -14
 KPX Oacute period -5
 KPX Oacute semicolon 43
 KPX Ocircumflex T -7
-KPX Ocircumflex V -45
+KPX Ocircumflex V -49
 KPX Ocircumflex Y -33
 KPX Odieresis A -57
 KPX Odieresis T -7
-KPX Odieresis V -45
+KPX Odieresis V -49
 KPX Odieresis W -29
 KPX Odieresis X -39
 KPX Odieresis Y -33
@@ -1683,7 +1684,7 @@ KPX Odieresis comma -14
 KPX Odieresis period -5
 KPX Odieresis semicolon 43
 KPX Ograve T -7
-KPX Ograve V -45
+KPX Ograve V -49
 KPX Ograve Y -33
 KPX Omicron A -40
 KPX Omicron Alpha -25
@@ -1698,7 +1699,7 @@ KPX Omicron lambda -15
 KPX Omicrontonos lambda -14
 KPX Oslash A -53
 KPX Otilde T -7
-KPX Otilde V -45
+KPX Otilde V -49
 KPX Otilde Y -33
 KPX P A -86
 KPX P AE -85
@@ -1718,8 +1719,8 @@ KPX P I -1
 KPX P J -1
 KPX P K -1
 KPX P L -1
-KPX P M 2
-KPX P N -3
+KPX P M -2
+KPX P N -8
 KPX P O 2
 KPX P OE 6
 KPX P Omicron 7
@@ -1727,7 +1728,8 @@ KPX P P -1
 KPX P R -1
 KPX P S 4
 KPX P T 22
-KPX P V 8
+KPX P U -3
+KPX P V 3
 KPX P W 5
 KPX P X 13
 KPX P Y 18
@@ -1821,7 +1823,7 @@ KPX R Tcaron -26
 KPX R Tcommaaccent -26
 KPX R U -40
 KPX R Udieresis -40
-KPX R V -40
+KPX R V -45
 KPX R W -43
 KPX R X 30
 KPX R Y -30
@@ -2085,25 +2087,26 @@ KPX Tcommaaccent Abreve -55
 KPX Tcommaaccent Acircumflex -55
 KPX Tcommaaccent Adieresis -55
 KPX Tcommaaccent Aogonek -55
-KPX Tcommaaccent aacute -58
+KPX Tcommaaccent aacute -57
 KPX Tcommaaccent aogonek -70
 KPX Tcommaaccent eacute -57
 KPX Tcommaaccent eogonek -70
-KPX Tcommaaccent nacute -25
-KPX Tcommaaccent ncaron -25
-KPX Tcommaaccent oacute -69
-KPX Tcommaaccent ohungarumlaut -49
-KPX Tcommaaccent racute -32
-KPX Tcommaaccent rcaron 17
-KPX Tcommaaccent sacute -55
+KPX Tcommaaccent nacute -20
+KPX Tcommaaccent ncaron -20
+KPX Tcommaaccent oacute -68
+KPX Tcommaaccent ohungarumlaut -48
+KPX Tcommaaccent racute -28
+KPX Tcommaaccent rcaron 18
+KPX Tcommaaccent sacute -50
 KPX Tcommaaccent tcaron -38
 KPX Tcommaaccent tcommaaccent -13
-KPX Tcommaaccent uacute -25
-KPX Tcommaaccent uhungarumlaut -25
-KPX Tcommaaccent uring -25
-KPX Tcommaaccent zacute -33
-KPX Tcommaaccent zcaron -12
-KPX Tcommaaccent zdotaccent -33
+KPX Tcommaaccent uacute -21
+KPX Tcommaaccent uhungarumlaut -21
+KPX Tcommaaccent uring -21
+KPX Tcommaaccent yacute 4
+KPX Tcommaaccent zacute -28
+KPX Tcommaaccent zcaron -11
+KPX Tcommaaccent zdotaccent -28
 KPX Theta A -40
 KPX Theta Alpha -25
 KPX Theta Lambda -25
@@ -2177,32 +2180,32 @@ KPX V Agrave -113
 KPX V Aogonek -113
 KPX V Aring -113
 KPX V Atilde -113
-KPX V C -50
+KPX V C -54
 KPX V E 18
-KPX V G -51
+KPX V G -56
 KPX V H 20
 KPX V I 18
 KPX V J 18
 KPX V L 18
-KPX V O -48
-KPX V OE -41
-KPX V Oacute -48
-KPX V Ocircumflex -48
-KPX V Odieresis -48
-KPX V Ograve -48
-KPX V Ohungarumlaut -48
+KPX V O -53
+KPX V OE -45
+KPX V Oacute -53
+KPX V Ocircumflex -53
+KPX V Odieresis -53
+KPX V Ograve -53
+KPX V Ohungarumlaut -53
 KPX V Oslash -53
-KPX V Otilde -48
+KPX V Otilde -53
 KPX V R 18
-KPX V S -22
+KPX V S -27
 KPX V T 29
 KPX V U 25
 KPX V Y 30
-KPX V a -85
-KPX V aacute -85
-KPX V adieresis -4
-KPX V ae -85
-KPX V aogonek -87
+KPX V a -86
+KPX V aacute -86
+KPX V adieresis -6
+KPX V ae -86
+KPX V aogonek -88
 KPX V braceright -12
 KPX V bracketright -7
 KPX V c -81
@@ -2213,36 +2216,36 @@ KPX V e -83
 KPX V eacute -83
 KPX V ecaron -20
 KPX V eogonek -83
-KPX V g -77
+KPX V g -78
 KPX V guillemotleft -85
 KPX V guilsinglleft -108
 KPX V h 22
 KPX V hyphen -49
-KPX V i -8
-KPX V iacute -54
+KPX V i -9
+KPX V iacute -55
 KPX V j -10
 KPX V l 22
 KPX V o -82
 KPX V oacute -82
-KPX V ocircumflex -61
-KPX V odieresis -18
+KPX V ocircumflex -65
+KPX V odieresis -20
 KPX V oe -86
 KPX V ohungarumlaut -82
 KPX V oslash -74
 KPX V parenright 14
 KPX V period -91
-KPX V r -52
-KPX V racute -52
+KPX V r -53
+KPX V racute -53
 KPX V rcaron 19
 KPX V sacute -71
 KPX V semicolon -37
-KPX V u -48
-KPX V uacute -48
-KPX V udieresis -26
-KPX V uhungarumlaut -48
-KPX V uring -48
-KPX V y -36
-KPX V yacute -32
+KPX V u -49
+KPX V uacute -49
+KPX V udieresis -28
+KPX V uhungarumlaut -49
+KPX V uring -49
+KPX V y -37
+KPX V yacute -33
 KPX W A -82
 KPX W AE -76
 KPX W Aacute -82
@@ -2409,6 +2412,8 @@ KPX Y braceright 1
 KPX Y bracketright 16
 KPX Y colon -6
 KPX Y comma -57
+KPX Y c -67
+KPX Y d -69
 KPX Y e -65
 KPX Y eacute -65
 KPX Y eogonek -65
@@ -2418,6 +2423,8 @@ KPX Y guilsinglleft -104
 KPX Y hyphen -41
 KPX Y i -5
 KPX Y iacute -50
+KPX Y m -45
+KPX Y n -45
 KPX Y o -64
 KPX Y odieresis -19
 KPX Y oacute -64
@@ -2432,13 +2439,17 @@ KPX Y q -74
 KPX Y quotedblright 10
 KPX Y quoteright 13
 KPX Y quotesingle 17
+KPX Y r -48
 KPX Y racute -48
+KPX Y s -52
 KPX Y semicolon -16
 KPX Y u -46
 KPX Y udieresis -26
 KPX Y uacute -46
 KPX Y uhungarumlaut -46
 KPX Y v -36
+KPX Y w -33
+KPX Y z -41
 KPX Yacute Aacute -41
 KPX Yacute Abreve -41
 KPX Yacute Acircumflex -41
@@ -2471,7 +2482,7 @@ KPX Z Z 6
 KPX Z ae -4
 KPX Z braceright 24
 KPX Z bracketright 6
-KPX Z colon 47
+KPX Z colon 44
 KPX Z comma 20
 KPX Z epsilon 6
 KPX Z hyphen 31
@@ -2480,13 +2491,12 @@ KPX Z oe -3
 KPX Z omicron 4
 KPX Z parenright 29
 KPX Z period 30
-KPX Z quotedblright -5
-KPX Z quoteright -3
-KPX Z quotesingle 1
+KPX Z quotedblright -9
+KPX Z quoteright -6
 KPX Z semicolon 30
 KPX Z v -47
 KPX Z w -40
-KPX Z y -50
+KPX Z y -51
 KPX Zeta O 4
 KPX Zeta Omicron 9
 KPX Zeta epsilon 22
@@ -2647,7 +2657,7 @@ KPX afii10025 afii10017 1
 KPX afii10025 afii10021 3
 KPX afii10025 afii10024 -4
 KPX afii10025 afii10025 10
-KPX afii10025 afii10029 10
+KPX afii10025 afii10029 11
 KPX afii10025 afii10036 17
 KPX afii10025 afii10037 -8
 KPX afii10025 afii10041 -7
@@ -2684,7 +2694,7 @@ KPX afii10032 afii10017 -25
 KPX afii10032 afii10021 -17
 KPX afii10032 afii10024 -32
 KPX afii10032 afii10025 5
-KPX afii10032 afii10029 -16
+KPX afii10032 afii10029 -15
 KPX afii10032 afii10036 17
 KPX afii10032 afii10037 -23
 KPX afii10032 afii10039 -15
@@ -2886,10 +2896,10 @@ KPX afii10047 afii10060 10
 KPX afii10047 afii10062 -35
 KPX afii10047 afii10106 -6
 KPX afii10048 afii10017 -20
-KPX afii10048 afii10021 -12
+KPX afii10048 afii10021 -16
 KPX afii10048 afii10024 -27
 KPX afii10048 afii10025 10
-KPX afii10048 afii10029 -11
+KPX afii10048 afii10029 -10
 KPX afii10048 afii10036 22
 KPX afii10048 afii10037 -20
 KPX afii10048 afii10039 -12
@@ -3392,7 +3402,6 @@ KPX braceleft quoteleft 52
 KPX braceleft y -6
 KPX bracketleft A -37
 KPX bracketleft AE -37
-KPX bracketleft J 4
 KPX bracketleft T -8
 KPX bracketleft V -10
 KPX bracketleft W 16
@@ -4205,8 +4214,8 @@ KPX quotesinglbase w -48
 KPX quotesinglbase y -35
 KPX quotesinglbase z 5
 KPX quotesingle A -84
-KPX quotesingle T 12
-KPX quotesingle V 12
+KPX quotesingle T 11
+KPX quotesingle V 11
 KPX quotesingle W 13
 KPX quotesingle X 10
 KPX quotesingle Y 15
@@ -4354,7 +4363,7 @@ KPX slash I 32
 KPX slash J 25
 KPX slash K 32
 KPX slash L 28
-KPX slash M 35
+KPX slash M 31
 KPX slash N 34
 KPX slash R 32
 KPX slash T 33
@@ -4617,6 +4626,7 @@ KPX y hyphen -18
 KPX y j 16
 KPX y l -17
 KPX y o -26
+KPX y n 21
 KPX y oacute -26
 KPX y odieresis -26
 KPX y ograve -26

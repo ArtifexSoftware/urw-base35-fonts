@@ -1,6 +1,6 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 5/31/2016
+Comment Creation Date: 5/17/2017
 FontName NimbusRoman-Regular
 FullName Nimbus Roman Regular
 FamilyName Nimbus Roman
@@ -875,7 +875,7 @@ C -1 ; WX 300 ; N zerosuperior ; B 13 262 287 682 ;
 C -1 ; WX 414 ; N zeta ; B 34 -156 409 682 ;
 EndCharMetrics
 StartKernData
-StartKernPairs 3836
+StartKernPairs 3845
 KPX A A 18
 KPX A B 17
 KPX A C -58
@@ -916,6 +916,7 @@ KPX A comma -4
 KPX A d -27
 KPX A e -28
 KPX A g -24
+KPX A k 19
 KPX A gamma -66
 KPX A guillemotleft -66
 KPX A guilsinglleft -76
@@ -2417,6 +2418,8 @@ KPX Y braceright -60
 KPX Y bracketright 7
 KPX Y colon -83
 KPX Y comma -97
+KPX Y c -102
+KPX Y d -103
 KPX Y e -102
 KPX Y eacute -102
 KPX Y eogonek -102
@@ -2426,6 +2429,8 @@ KPX Y guilsinglleft -147
 KPX Y hyphen -96
 KPX Y i -17
 KPX Y iacute -65
+KPX Y m -77
+KPX Y n -78
 KPX Y o -104
 KPX Y odieresis -67
 KPX Y oacute -104
@@ -2439,13 +2444,17 @@ KPX Y pi -79
 KPX Y q -101
 KPX Y quotedblright 8
 KPX Y quoteright -16
+KPX Y r -72
 KPX Y racute -72
+KPX Y s -95
 KPX Y semicolon -83
 KPX Y u -78
 KPX Y udieresis -57
 KPX Y uacute -68
 KPX Y uhungarumlaut -68
 KPX Y v -83
+KPX Y w -84
+KPX Y z -83
 KPX Yacute Aacute -75
 KPX Yacute Abreve -75
 KPX Yacute Acircumflex -75

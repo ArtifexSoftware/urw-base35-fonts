@@ -1,6 +1,6 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 5/31/2016
+Comment Creation Date: 5/17/2017
 FontName URWBookman-DemiItalic
 FullName URW Bookman Demi Italic
 FamilyName URW Bookman
@@ -314,7 +314,7 @@ C -1 ; WX 680 ; N Sigma ; B 53 0 763 681 ;
 C -1 ; WX 664 ; N Tau ; B 82 0 814 681 ;
 C -1 ; WX 700 ; N Tbar ; B 70 0 802 681 ;
 C -1 ; WX 700 ; N Tcaron ; B 70 0 802 900 ;
-C -1 ; WX 700 ; N Tcommaaccent ; B 70 -332 802 681 ;
+C -1 ; WX 700 ; N Tcommaaccent ; B 70 -215 802 681 ;
 C -1 ; WX 760 ; N Theta ; B 78 -13 806 694 ;
 C -1 ; WX 640 ; N Thorn ; B -6 0 701 681 ;
 C -1 ; WX 740 ; N Uacute ; B 112 -13 855 914 ;
@@ -657,7 +657,7 @@ C -1 ; WX 1000 ; N sun ; B 150 -16 850 683 ;
 C -1 ; WX 477 ; N tau ; B 36 -9 525 511 ;
 C -1 ; WX 440 ; N tbar ; B 80 -9 488 659 ;
 C -1 ; WX 521 ; N tcaron ; B 107 -9 581 740 ;
-C -1 ; WX 440 ; N tcommaaccent ; B 106 -328 488 659 ;
+C -1 ; WX 440 ; N tcommaaccent ; B 106 -215 488 659 ;
 C -1 ; WX 996 ; N therefore ; B 185 0 811 630 ;
 C -1 ; WX 651 ; N theta ; B 71 -12 668 716 ;
 C -1 ; WX 679 ; N theta1 ; B 48 -51 700 639 ;
@@ -875,7 +875,7 @@ C -1 ; WX 408 ; N zerosuperior ; B 99 265 494 689 ;
 C -1 ; WX 452 ; N zeta ; B 31 -230 614 716 ;
 EndCharMetrics
 StartKernData
-StartKernPairs 3822
+StartKernPairs 3831
 KPX A A 47
 KPX A B 26
 KPX A C -31
@@ -916,6 +916,7 @@ KPX A comma 12
 KPX A d -5
 KPX A e -7
 KPX A g -14
+KPX A k -14
 KPX A gamma -38
 KPX A guillemotleft -15
 KPX A guilsinglleft -15
@@ -2083,18 +2084,18 @@ KPX Tcommaaccent Abreve -53
 KPX Tcommaaccent Acircumflex -53
 KPX Tcommaaccent Adieresis -53
 KPX Tcommaaccent Aogonek -52
-KPX Tcommaaccent aacute -40
-KPX Tcommaaccent aogonek -40
-KPX Tcommaaccent eacute -36
-KPX Tcommaaccent eogonek -36
+KPX Tcommaaccent aacute -39
+KPX Tcommaaccent aogonek -39
+KPX Tcommaaccent eacute -35
+KPX Tcommaaccent eogonek -35
 KPX Tcommaaccent nacute 18
 KPX Tcommaaccent ncaron 18
 KPX Tcommaaccent oacute -29
 KPX Tcommaaccent ohungarumlaut -29
-KPX Tcommaaccent racute 17
-KPX Tcommaaccent rcaron 17
+KPX Tcommaaccent racute 18
+KPX Tcommaaccent rcaron 18
 KPX Tcommaaccent sacute -14
-KPX Tcommaaccent tcaron 8
+KPX Tcommaaccent tcaron 9
 KPX Tcommaaccent tcommaaccent 10
 KPX Tcommaaccent uacute 18
 KPX Tcommaaccent uhungarumlaut 18
@@ -2410,6 +2411,8 @@ KPX Y braceright 23
 KPX Y bracketright 29
 KPX Y colon -43
 KPX Y comma -84
+KPX Y c -67
+KPX Y d -68
 KPX Y e -68
 KPX Y eacute -68
 KPX Y eogonek -68
@@ -2419,6 +2422,8 @@ KPX Y guilsinglleft -71
 KPX Y hyphen -63
 KPX Y i 1
 KPX Y iacute 6
+KPX Y m -47
+KPX Y n -47
 KPX Y o -68
 KPX Y odieresis -21
 KPX Y oacute -68
@@ -2431,13 +2436,17 @@ KPX Y period -87
 KPX Y pi -22
 KPX Y q -68
 KPX Y quotesingle 20
+KPX Y r -47
 KPX Y racute -27
+KPX Y s -60
 KPX Y semicolon -40
 KPX Y u -47
 KPX Y udieresis -27
 KPX Y uacute -27
 KPX Y uhungarumlaut -27
 KPX Y v -33
+KPX Y w -33
+KPX Y z -62
 KPX Yacute Aacute -48
 KPX Yacute Abreve -48
 KPX Yacute Acircumflex -48

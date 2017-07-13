@@ -1,6 +1,6 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 3/1/2016
+Comment Creation Date: 5/17/2017
 FontName NimbusMonoPS-Regular
 FullName Nimbus Mono PS Regular
 FamilyName Nimbus Mono PS
@@ -314,7 +314,7 @@ C -1 ; WX 600 ; N Sigma ; B 134 0 543 563 ;
 C -1 ; WX 600 ; N Tau ; B 67 0 534 563 ;
 C -1 ; WX 600 ; N Tbar ; B 67 0 534 563 ;
 C -1 ; WX 600 ; N Tcaron ; B 67 0 534 784 ;
-C -1 ; WX 600 ; N Tcommaaccent ; B 67 -233 534 563 ;
+C -1 ; WX 600 ; N Tcommaaccent ; B 67 -169 534 563 ;
 C -1 ; WX 600 ; N Theta ; B 46 -16 555 575 ;
 C -1 ; WX 600 ; N Thorn ; B 38 0 505 563 ;
 C -1 ; WX 600 ; N Uacute ; B 35 -16 566 784 ;
@@ -657,7 +657,7 @@ C -1 ; WX 600 ; N sun ; B 5 -13 595 576 ;
 C -1 ; WX 600 ; N tau ; B 103 -15 472 419 ;
 C -1 ; WX 600 ; N tbar ; B 38 -16 505 562 ;
 C -1 ; WX 600 ; N tcaron ; B 38 -16 514 615 ;
-C -1 ; WX 600 ; N tcommaaccent ; B 38 -233 505 562 ;
+C -1 ; WX 600 ; N tcommaaccent ; B 38 -184 505 562 ;
 C -1 ; WX 600 ; N therefore ; B 33 0 567 573 ;
 C -1 ; WX 600 ; N theta ; B 85 -15 516 603 ;
 C -1 ; WX 600 ; N theta1 ; B 24 -16 580 736 ;

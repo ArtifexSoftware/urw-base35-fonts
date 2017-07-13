@@ -1,9 +1,9 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 5/31/2016
+Comment Creation Date: 5/17/2017
 FontName NimbusSans-Bold
 FullName Nimbus Sans Bold
-FamilyName NimbusSans
+FamilyName Nimbus Sans
 Weight Bold
 ItalicAngle 0.0
 IsFixedPitch false
@@ -875,7 +875,7 @@ C -1 ; WX 333 ; N zerosuperior ; B 6 270 320 718 ;
 C -1 ; WX 460 ; N zeta ; B 24 -218 474 729 ;
 EndCharMetrics
 StartKernData
-StartKernPairs 3779
+StartKernPairs 3789
 KPX A A 14
 KPX A B -13
 KPX A C -37
@@ -915,6 +915,7 @@ KPX A comma 14
 KPX A d -16
 KPX A e -12
 KPX A g -18
+KPX A k -1
 KPX A gamma -44
 KPX A guillemotleft -48
 KPX A guilsinglleft -45
@@ -1759,17 +1760,17 @@ KPX P w 17
 KPX P y 14
 KPX Phi A -58
 KPX Phi Alpha -58
-KPX Phi Lambda -42
-KPX Phi T -53
-KPX Phi Tau -53
-KPX Phi Upsilon -78
-KPX Phi Y -78
+KPX Phi Lambda -43
+KPX Phi T -52
+KPX Phi Tau -52
+KPX Phi Upsilon -77
+KPX Phi Y -77
 KPX Phi lambda -47
-KPX Phi o -11
+KPX Phi o -12
 KPX Phi omega -29
 KPX Phi omegatonos -29
-KPX Phi omicron -13
-KPX Phi omicrontonos -13
+KPX Phi omicron -14
+KPX Phi omicrontonos -14
 KPX Pi epsilontonos 18
 KPX Pi lambda -4
 KPX Pi o 4
@@ -1929,7 +1930,7 @@ KPX T Omicron -24
 KPX T Oslash -24
 KPX T Otilde -24
 KPX T P -7
-KPX T Phi -55
+KPX T Phi -54
 KPX T Q -25
 KPX T R -9
 KPX T S 1
@@ -2010,7 +2011,7 @@ KPX Tau Alpha -88
 KPX Tau Lambda -74
 KPX Tau O -24
 KPX Tau Omicron -24
-KPX Tau Phi -55
+KPX Tau Phi -54
 KPX Tau T 24
 KPX Tau Tau 24
 KPX Tau Upsilon 16
@@ -2137,7 +2138,7 @@ KPX Upsilon Alpha -87
 KPX Upsilon Delta -87
 KPX Upsilon O -53
 KPX Upsilon Omicron -53
-KPX Upsilon Phi -72
+KPX Upsilon Phi -71
 KPX Upsilon T 22
 KPX Upsilon Tau 22
 KPX Upsilon Theta -53
@@ -2368,7 +2369,7 @@ KPX Y Ograve -53
 KPX Y Omicron -53
 KPX Y Oslash -50
 KPX Y Otilde -53
-KPX Y Phi -72
+KPX Y Phi -71
 KPX Y Q -54
 KPX Y S -29
 KPX Y T 22
@@ -2387,6 +2388,8 @@ KPX Y braceright -7
 KPX Y bracketright 20
 KPX Y colon -46
 KPX Y comma -81
+KPX Y c -71
+KPX Y d -68
 KPX Y e -65
 KPX Y eacute -65
 KPX Y eogonek -64
@@ -2396,6 +2399,8 @@ KPX Y guilsinglleft -95
 KPX Y hyphen -52
 KPX Y i -4
 KPX Y iacute -42
+KPX Y m -47
+KPX Y n -48
 KPX Y o -71
 KPX Y odieresis -47
 KPX Y oacute -71
@@ -2410,13 +2415,17 @@ KPX Y q -68
 KPX Y quotedblright -7
 KPX Y quoteright -3
 KPX Y quotesingle 4
+KPX Y r -48
 KPX Y racute -48
+KPX Y s -68
 KPX Y semicolon -46
 KPX Y u -48
 KPX Y udieresis -46
 KPX Y uacute -46
 KPX Y uhungarumlaut -46
 KPX Y v -27
+KPX Y w -22
+KPX Y z -39
 KPX Yacute Aacute -87
 KPX Yacute Abreve -87
 KPX Yacute Acircumflex -87
@@ -2595,7 +2604,7 @@ KPX afii10020 afii10082 -89
 KPX afii10020 afii10083 -108
 KPX afii10020 afii10084 -71
 KPX afii10020 afii10085 -69
-KPX afii10020 afii10086 -109
+KPX afii10020 afii10086 -110
 KPX afii10020 afii10087 -76
 KPX afii10020 afii10088 -99
 KPX afii10020 afii10089 -83
@@ -2800,7 +2809,7 @@ KPX afii10037 afii10082 -31
 KPX afii10037 afii10083 -60
 KPX afii10037 afii10084 -11
 KPX afii10037 afii10085 -11
-KPX afii10037 afii10086 -67
+KPX afii10037 afii10086 -68
 KPX afii10037 afii10087 -16
 KPX afii10037 afii10088 -39
 KPX afii10037 afii10089 -23
@@ -2914,7 +2923,7 @@ KPX afii10050 afii10082 -69
 KPX afii10050 afii10083 -88
 KPX afii10050 afii10084 -51
 KPX afii10050 afii10085 -49
-KPX afii10050 afii10086 -89
+KPX afii10050 afii10086 -90
 KPX afii10050 afii10087 -56
 KPX afii10050 afii10088 -79
 KPX afii10050 afii10089 -63
@@ -2953,7 +2962,7 @@ KPX afii10052 afii10082 -89
 KPX afii10052 afii10083 -108
 KPX afii10052 afii10084 -71
 KPX afii10052 afii10085 -69
-KPX afii10052 afii10086 -109
+KPX afii10052 afii10086 -110
 KPX afii10052 afii10087 -76
 KPX afii10052 afii10088 -99
 KPX afii10052 afii10089 -83
@@ -3024,7 +3033,7 @@ KPX afii10062 afii10081 -40
 KPX afii10062 afii10082 -31
 KPX afii10062 afii10083 -60
 KPX afii10062 afii10084 -11
-KPX afii10062 afii10086 -67
+KPX afii10062 afii10086 -68
 KPX afii10062 afii10087 -16
 KPX afii10062 afii10088 -39
 KPX afii10062 afii10089 -23
@@ -3172,18 +3181,18 @@ KPX afii10085 guillemotright -21
 KPX afii10085 hyphen 2
 KPX afii10085 period -47
 KPX afii10086 afii10068 -17
-KPX afii10086 afii10069 -20
+KPX afii10086 afii10069 -19
 KPX afii10086 afii10072 -12
 KPX afii10086 afii10073 -12
-KPX afii10086 afii10077 -35
+KPX afii10086 afii10077 -34
 KPX afii10086 afii10084 -16
-KPX afii10086 afii10085 -33
+KPX afii10086 afii10085 -34
 KPX afii10086 afii10087 -40
 KPX afii10086 afii10089 -6
-KPX afii10086 afii10092 -20
+KPX afii10086 afii10092 -21
 KPX afii10086 afii10097 -15
-KPX afii10086 afii10106 -33
-KPX afii10086 afii10110 -33
+KPX afii10086 afii10106 -32
+KPX afii10086 afii10110 -34
 KPX afii10087 afii10065 -9
 KPX afii10087 afii10070 -21
 KPX afii10087 afii10073 -20
@@ -4604,6 +4613,7 @@ KPX y hyphen -2
 KPX y j -6
 KPX y l -4
 KPX y o -24
+KPX y n -2
 KPX y oacute -24
 KPX y odieresis -24
 KPX y ograve -24
