@@ -1,6 +1,6 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 5/17/2017
+Comment Creation Date: 7/27/2017
 FontName NimbusSans-Regular
 FullName Nimbus Sans
 FamilyName Nimbus Sans
@@ -34,16 +34,16 @@ C 44 ; WX 278 ; N comma ; B 87 -149 192 104 ;
 C 45 ; WX 333 ; N hyphen ; B 46 240 284 312 ;
 C 46 ; WX 278 ; N period ; B 87 0 191 104 ;
 C 47 ; WX 278 ; N slash ; B -8 -20 284 729 ;
-C 48 ; WX 556 ; N zero ; B 43 -23 507 709 ;
-C 49 ; WX 556 ; N one ; B 102 0 347 709 ;
-C 50 ; WX 556 ; N two ; B 34 0 511 709 ;
-C 51 ; WX 556 ; N three ; B 32 -23 506 709 ;
-C 52 ; WX 556 ; N four ; B 28 0 520 709 ;
+C 48 ; WX 556 ; N zero ; B 43 -23 507 723 ;
+C 49 ; WX 556 ; N one ; B 102 0 347 723 ;
+C 50 ; WX 556 ; N two ; B 34 1 511 723 ;
+C 51 ; WX 556 ; N three ; B 32 -23 506 723 ;
+C 52 ; WX 556 ; N four ; B 28 0 520 723 ;
 C 53 ; WX 556 ; N five ; B 35 -23 513 709 ;
-C 54 ; WX 556 ; N six ; B 43 -23 513 709 ;
+C 54 ; WX 556 ; N six ; B 43 -23 513 723 ;
 C 55 ; WX 556 ; N seven ; B 46 0 520 709 ;
-C 56 ; WX 556 ; N eight ; B 37 -23 513 709 ;
-C 57 ; WX 556 ; N nine ; B 38 -23 509 709 ;
+C 56 ; WX 556 ; N eight ; B 37 -23 513 723 ;
+C 57 ; WX 556 ; N nine ; B 38 -23 509 723 ;
 C 58 ; WX 278 ; N colon ; B 110 0 214 524 ;
 C 59 ; WX 278 ; N semicolon ; B 110 -149 215 524 ;
 C 60 ; WX 584 ; N less ; B 45 -9 534 474 ;
@@ -875,7 +875,7 @@ C -1 ; WX 333 ; N zerosuperior ; B 15 270 314 709 ;
 C -1 ; WX 441 ; N zeta ; B 40 -218 453 729 ;
 EndCharMetrics
 StartKernData
-StartKernPairs 3840
+StartKernPairs 3838
 KPX A A 20
 KPX A B -10
 KPX A C -35
@@ -2073,12 +2073,11 @@ KPX Tcaron eacute -93
 KPX Tcaron eogonek -93
 KPX Tcaron hyphen -75
 KPX Tcaron nacute -64
-KPX Tcaron ncaron -42
+KPX Tcaron ncaron -43
 KPX Tcaron oacute -88
 KPX Tcaron ohungarumlaut -60
 KPX Tcaron period -96
 KPX Tcaron racute -49
-KPX Tcaron rcaron 1
 KPX Tcaron sacute -77
 KPX Tcaron semicolon -78
 KPX Tcaron tcaron -13
@@ -2099,11 +2098,10 @@ KPX Tcommaaccent aogonek -100
 KPX Tcommaaccent eacute -93
 KPX Tcommaaccent eogonek -93
 KPX Tcommaaccent nacute -64
-KPX Tcommaaccent ncaron -42
+KPX Tcommaaccent ncaron -43
 KPX Tcommaaccent oacute -88
 KPX Tcommaaccent ohungarumlaut -60
 KPX Tcommaaccent racute -49
-KPX Tcommaaccent rcaron 1
 KPX Tcommaaccent sacute -77
 KPX Tcommaaccent tcaron -13
 KPX Tcommaaccent tcommaaccent -13
@@ -2210,7 +2208,7 @@ KPX V U -17
 KPX V Y 17
 KPX V a -58
 KPX V aacute -58
-KPX V adieresis -46
+KPX V adieresis -45
 KPX V ae -54
 KPX V aogonek -57
 KPX V braceright 11
@@ -2235,7 +2233,7 @@ KPX V l -6
 KPX V o -50
 KPX V oacute -50
 KPX V ocircumflex -50
-KPX V odieresis -46
+KPX V odieresis -45
 KPX V oe -52
 KPX V ohungarumlaut -50
 KPX V oslash -46
@@ -2414,7 +2412,7 @@ KPX Y X 13
 KPX Y Z 5
 KPX Y a -86
 KPX Y aacute -86
-KPX Y adieresis -42
+KPX Y adieresis -39
 KPX Y ae -83
 KPX Y aogonek -84
 KPX Y braceright 19
@@ -2435,7 +2433,7 @@ KPX Y iacute -35
 KPX Y m -63
 KPX Y n -63
 KPX Y o -85
-KPX Y odieresis -42
+KPX Y odieresis -39
 KPX Y oacute -85
 KPX Y ohungarumlaut -74
 KPX Y omicrontonos -83
@@ -2453,7 +2451,7 @@ KPX Y racute -62
 KPX Y s -78
 KPX Y semicolon -72
 KPX Y u -63
-KPX Y udieresis -42
+KPX Y udieresis -39
 KPX Y uacute -60
 KPX Y uhungarumlaut -60
 KPX Y v -37

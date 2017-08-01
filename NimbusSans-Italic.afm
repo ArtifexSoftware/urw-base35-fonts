@@ -1,6 +1,6 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 7/20/2017
+Comment Creation Date: 7/27/2017
 FontName NimbusSans-Italic
 FullName Nimbus Sans Italic
 FamilyName Nimbus Sans
@@ -34,16 +34,16 @@ C 44 ; WX 278 ; N comma ; B 55 -150 214 103 ;
 C 45 ; WX 333 ; N hyphen ; B 97 240 351 312 ;
 C 46 ; WX 278 ; N period ; B 87 0 213 103 ;
 C 47 ; WX 278 ; N slash ; B -12 -20 434 729 ;
-C 48 ; WX 556 ; N zero ; B 98 -23 598 709 ;
-C 49 ; WX 556 ; N one ; B 208 0 498 709 ;
-C 50 ; WX 556 ; N two ; B 34 0 620 709 ;
-C 51 ; WX 556 ; N three ; B 71 -23 599 709 ;
-C 52 ; WX 556 ; N four ; B 63 0 573 709 ;
+C 48 ; WX 556 ; N zero ; B 99 -23 600 723 ;
+C 49 ; WX 556 ; N one ; B 211 0 501 723 ;
+C 50 ; WX 556 ; N two ; B 34 1 622 723 ;
+C 51 ; WX 556 ; N three ; B 72 -23 602 723 ;
+C 52 ; WX 556 ; N four ; B 64 0 574 723 ;
 C 53 ; WX 556 ; N five ; B 70 -23 629 709 ;
-C 54 ; WX 556 ; N six ; B 93 -23 611 709 ;
+C 54 ; WX 556 ; N six ; B 94 -23 614 723 ;
 C 55 ; WX 556 ; N seven ; B 137 0 671 709 ;
-C 56 ; WX 556 ; N eight ; B 74 -23 604 709 ;
-C 57 ; WX 556 ; N nine ; B 83 -23 599 709 ;
+C 56 ; WX 556 ; N eight ; B 75 -23 607 723 ;
+C 57 ; WX 556 ; N nine ; B 84 -23 602 723 ;
 C 58 ; WX 278 ; N colon ; B 110 0 326 524 ;
 C 59 ; WX 278 ; N semicolon ; B 78 -150 325 524 ;
 C 60 ; WX 584 ; N less ; B 87 -9 635 474 ;
@@ -1232,7 +1232,7 @@ KPX E O -34
 KPX E Oacute -34
 KPX E Odieresis -34
 KPX E Omicron -34
-KPX E Phi -45
+KPX E Phi -44
 KPX E S -39
 KPX E T -17
 KPX E Theta -36
@@ -1270,7 +1270,7 @@ KPX E y -45
 KPX E z -13
 KPX Epsilon O -34
 KPX Epsilon Omicron -34
-KPX Epsilon Phi -45
+KPX Epsilon Phi -44
 KPX Epsilon Theta -36
 KPX Epsilon delta -29
 KPX Epsilon gamma -43
@@ -1772,8 +1772,8 @@ KPX P y -7
 KPX Phi A -59
 KPX Phi Alpha -59
 KPX Phi Lambda -59
-KPX Phi T -95
-KPX Phi Tau -95
+KPX Phi T -94
+KPX Phi Tau -94
 KPX Phi Upsilon -91
 KPX Phi Y -91
 KPX Phi lambda -40
@@ -1859,7 +1859,7 @@ KPX Rho Alpha -77
 KPX Rho Delta -42
 KPX Rho Lambda -76
 KPX Rho Omicron -21
-KPX Rho Phi -34
+KPX Rho Phi -33
 KPX Rho Tau -26
 KPX Rho Theta -23
 KPX Rho Upsilon -47
@@ -1953,7 +1953,7 @@ KPX T Omicron -50
 KPX T Oslash -48
 KPX T Otilde -50
 KPX T P -26
-KPX T Phi -86
+KPX T Phi -85
 KPX T Q -56
 KPX T R -27
 KPX T S -33
@@ -1968,7 +1968,7 @@ KPX T Y 10
 KPX T Z -9
 KPX T a -96
 KPX T aacute -96
-KPX T adieresis -53
+KPX T adieresis -52
 KPX T ae -93
 KPX T alpha -83
 KPX T alphatonos -76
@@ -1995,7 +1995,7 @@ KPX T iacute -30
 KPX T j -12
 KPX T l -13
 KPX T o -85
-KPX T odieresis -49
+KPX T odieresis -48
 KPX T oacute -85
 KPX T ocircumflex -62
 KPX T oe -87
@@ -2018,7 +2018,7 @@ KPX T scedilla -88
 KPX T semicolon -80
 KPX T sigma -94
 KPX T u -89
-KPX T udieresis -49
+KPX T udieresis -48
 KPX T uacute -72
 KPX T uhungarumlaut -69
 KPX T upsilon -92
@@ -2034,7 +2034,7 @@ KPX Tau Alpha -105
 KPX Tau Lambda -104
 KPX Tau O -50
 KPX Tau Omicron -50
-KPX Tau Phi -86
+KPX Tau Phi -85
 KPX Tau T 9
 KPX Tau Tau 9
 KPX Tau Upsilon 10
@@ -2210,7 +2210,7 @@ KPX V U -25
 KPX V Y 8
 KPX V a -61
 KPX V aacute -61
-KPX V adieresis -60
+KPX V adieresis -57
 KPX V ae -53
 KPX V aogonek -61
 KPX V braceright 4
@@ -2414,7 +2414,7 @@ KPX Y X 3
 KPX Y Z -3
 KPX Y a -90
 KPX Y aacute -90
-KPX Y adieresis -56
+KPX Y adieresis -51
 KPX Y ae -87
 KPX Y aogonek -90
 KPX Y braceright 10
@@ -2435,7 +2435,7 @@ KPX Y iacute -45
 KPX Y m -73
 KPX Y n -72
 KPX Y o -79
-KPX Y odieresis -52
+KPX Y odieresis -47
 KPX Y oacute -79
 KPX Y ohungarumlaut -79
 KPX Y omicrontonos -81
@@ -2453,7 +2453,7 @@ KPX Y racute -72
 KPX Y s -82
 KPX Y semicolon -81
 KPX Y u -74
-KPX Y udieresis -51
+KPX Y udieresis -47
 KPX Y uacute -70
 KPX Y uhungarumlaut -70
 KPX Y v -48
@@ -4017,7 +4017,7 @@ KPX o w -6
 KPX o x -24
 KPX o y -24
 KPX o z -28
-KPX odieresis T -56
+KPX odieresis T -57
 KPX odieresis asterisk -14
 KPX odieresis colon -22
 KPX odieresis comma -21
