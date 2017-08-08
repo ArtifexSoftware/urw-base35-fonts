@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="font">
+  <id>de.urwpp.P052</id>
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>AGPL-3.0</project_license>
+
+  <name>P052</name>
+  <summary>An alternative font family for Palatino typeface</summary>
+  <description>
+    <p>
+      This serif font family is an alternative for the Palatino
+      typeface, and is part of Level 2 Core Font Set - PostScript specification
+      of 35 base fonts that can be used with any PostScript file.
+    </p>
+    <p>
+      These 35 base fonts are provided freely by (URW++) company,
+      and are mainly utilized by Ghostscript, or other applications using it.
+  </description>
+
+  <provides>
+    <font>P052 Roman</font>
+    <font>P052 Italic</font>
+    <font>P052 Bold</font>
+    <font>P052 Bold Italic</font>
+  </provides>
+</component>
