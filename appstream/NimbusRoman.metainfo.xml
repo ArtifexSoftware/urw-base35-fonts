@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="font">
+  <id>de.urwpp.NimbusRoman</id>
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>AGPL-3.0</project_license>
+
+  <name>Nimbus Roman</name>
+  <summary>An alternative font family for Times New Roman typeface</summary>
+  <description>
+    <p>
+      This serif font family is an alternative for the Times New Roman
+      typeface, and is part of Level 2 Core Font Set - PostScript specification
+      of 35 base fonts that can be used with any PostScript file.
+    </p>
+    <p>
+      These 35 base fonts are provided freely by (URW++) company,
+      and are mainly utilized by Ghostscript, or other applications using it.
+  </description>
+
+  <provides>
+    <font>Nimbus Roman Regular</font>
+    <font>Nimbus Roman Italic</font>
+    <font>Nimbus Roman Bold</font>
+    <font>Nimbus Roman Bold Italic</font>
+  </provides>
+</component>
