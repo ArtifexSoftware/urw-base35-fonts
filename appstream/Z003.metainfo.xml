@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="font">
+  <id>de.urwpp.Z003</id>
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>AGPL-3.0</project_license>
+
+  <name>Z003</name>
+  <summary>An alternative font for ITC Zapf Chancery typeface</summary>
+  <description>
+    <p>
+      This script font is an alternative for the ITC Zapf Chancery
+      typeface, and is part of Level 2 Core Font Set - PostScript specification
+      of 35 base fonts that can be used with any PostScript file.
+    </p>
+    <p>
+      These 35 base fonts are provided freely by (URW++) company,
+      and are mainly utilized by Ghostscript, or other applications using it.
+  </description>
+
+  <provides>
+    <font>Z003 Medium Italic</font>
+  </provides>
+</component>
