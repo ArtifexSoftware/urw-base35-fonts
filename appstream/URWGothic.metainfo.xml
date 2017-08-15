@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="font">
   <id>de.urwpp.URWGothic</id>
+
   <metadata_license>CC-BY-4.0</metadata_license>
   <project_license>AGPL-3.0</project_license>
+
+  <url type="homepage">https://www.urwpp.de/en/</url>
+  <url type="bugtracker">https://bugs.ghostscript.com/</url>
 
   <name>URW Gothic</name>
   <summary>An alternative font family for ITC Avant Garde Gothic typeface</summary>

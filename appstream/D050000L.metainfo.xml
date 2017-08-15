@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="font">
   <id>de.urwpp.D050000L</id>
+
   <metadata_license>CC-BY-4.0</metadata_license>
   <project_license>AGPL-3.0</project_license>
+
+  <url type="homepage">https://www.urwpp.de/en/</url>
+  <url type="bugtracker">https://bugs.ghostscript.com/</url>
 
   <name>D050000L</name>
   <summary>An alternative font for ITC Zapf Dingbats typeface</summary>
