@@ -9,6 +9,8 @@
   <url type="homepage">https://www.urwpp.de/en/</url>
   <url type="bugtracker">https://bugs.ghostscript.com/</url>
 
+  <update_conctact>dkaspar@redhat.com</update_contact>
+
   <name>URW Bookman</name>
   <summary>An alternative font family for ITC Bookman typeface</summary>
   <description>
