@@ -29,6 +29,19 @@
     <font>URW Gothic Demi Oblique</font>
   </provides>
 
+  <suggests>
+    <id>de.urwpp.C059</id>
+    <id>de.urwpp.D050000L</id>
+    <id>de.urwpp.NimbusMonoPS</id>
+    <id>de.urwpp.NimbusRoman</id>
+    <id>de.urwpp.NimbusSans</id>
+    <id>de.urwpp.NimbusSansNarrow</id>
+    <id>de.urwpp.P052</id>
+    <id>de.urwpp.StandardSymbolsPS</id>
+    <id>de.urwpp.URWBookman</id>
+    <id>de.urwpp.Z003</id>
+  </suggests>
+
   <languages>
     <lang>aa</lang>
     <lang>af</lang>
