@@ -9,6 +9,8 @@
   <url type="homepage">https://www.urwpp.de/en/</url>
   <url type="bugtracker">https://bugs.ghostscript.com/</url>
 
+  <update_conctact>dkaspar@redhat.com</update_contact>
+
   <name>Nimbus Mono PS</name>
   <summary>An alternative font family for Courier typeface</summary>
   <description>
