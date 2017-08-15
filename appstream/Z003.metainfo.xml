@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="font">
   <id>de.urwpp.Z003</id>
+  <developer_name>URW++ Design and Development GmbH</developer_name>
 
   <metadata_license>CC-BY-4.0</metadata_license>
   <project_license>AGPL-3.0</project_license>
