@@ -29,6 +29,7 @@
   </provides>
 
   <suggests>
+    <id>de.urwpp.URWCoreFontSetLevel2</id>
     <id>de.urwpp.C059</id>
     <id>de.urwpp.D050000L</id>
     <id>de.urwpp.NimbusMonoPS</id>
