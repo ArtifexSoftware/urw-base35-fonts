@@ -44,6 +44,7 @@
 
   <!-- NOTE: Medium urgency of updates is implicitly assumed with AppStream --!>
   <releases>
+    <release version="20170801" date="2017-08-01" />
     <release version="20160926" date="2016-09-26" />
   </releases>
 
