@@ -9,9 +9,9 @@
   <url type="homepage">https://www.urwpp.de/en/</url>
   <url type="bugtracker">https://bugs.ghostscript.com/</url>
 
-  <update_conctact>dkaspar@redhat.com</update_contact>
+  <update_contact>dkaspar@redhat.com</update_contact>
 
-  <!-- NOTE: This is a meta-package to install all the Level 2 fonts --!>
+  <!-- NOTE: This is a meta-package to install all the Level 2 fonts -->
   <name>(URW)++ Core Font Set [Level 2]</name>
   <summary>An alternative font family for New Century Schoolbook typeface</summary>
   <description>
@@ -64,15 +64,15 @@
     <font>Z003 Medium Italic</font>
   </provides>
 
-  <!-- NOTE: No <suggests/> tag here, this metapackages provides all fonts ^--!>
+  <!-- NOTE: No <suggests/> tag here, this metapackages provides all fonts ^-->
 
-  <!-- NOTE: Medium urgency of updates is implicitly assumed with AppStream --!>
+  <!-- NOTE: Medium urgency of updates is implicitly assumed with AppStream -->
   <releases>
     <release version="20170801" date="2017-08-01" />
     <release version="20160926" date="2016-09-26" />
   </releases>
 
-  <!-- NOTE: These font locales are superset of all languages supported --!>
+  <!-- NOTE: These font locales are superset of all languages supported -->
   <languages>
     <lang>aa</lang>
     <lang>af</lang>
