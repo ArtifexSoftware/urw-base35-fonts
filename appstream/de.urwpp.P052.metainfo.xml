@@ -9,7 +9,7 @@
   <url type="homepage">https://www.urwpp.de/en/</url>
   <url type="bugtracker">https://bugs.ghostscript.com/</url>
 
-  <update_conctact>dkaspar@redhat.com</update_contact>
+  <update_contact>dkaspar@redhat.com</update_contact>
 
   <name>P052</name>
   <summary>An alternative font family for Palatino typeface</summary>
@@ -45,7 +45,7 @@
     <id>de.urwpp.Z003</id>
   </suggests>
 
-  <!-- NOTE: Medium urgency of updates is implicitly assumed with AppStream --!>
+  <!-- NOTE: Medium urgency of updates is implicitly assumed with AppStream -->
   <releases>
     <release version="20170801" date="2017-08-01" />
     <release version="20160926" date="2016-09-26" />
