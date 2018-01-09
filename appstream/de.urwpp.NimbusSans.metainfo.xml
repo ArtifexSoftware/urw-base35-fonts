@@ -29,6 +29,11 @@
     <font>Nimbus Sans Italic</font>
     <font>Nimbus Sans Bold</font>
     <font>Nimbus Sans Bold Italic</font>
+
+    <font>Nimbus Sans Narrow Regular</font>
+    <font>Nimbus Sans Narrow Oblique</font>
+    <font>Nimbus Sans Narrow Bold</font>
+    <font>Nimbus Sans Narrow Bold Oblique</font>
   </provides>
 
   <suggests>
