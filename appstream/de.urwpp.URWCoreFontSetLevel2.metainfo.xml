@@ -13,7 +13,7 @@
 
   <!-- NOTE: This is a meta-package to install all the Level 2 fonts -->
   <name>(URW)++ Core Font Set [Level 2]</name>
-  <summary>An alternative font family for New Century Schoolbook typeface</summary>
+  <summary>Core Font Set containing 35 freely distributable fonts from (URW)++</summary>
   <description>
     <p>
       The Level 2 Core Font Set is a PostScript specification of 35 base fonts
