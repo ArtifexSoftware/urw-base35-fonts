@@ -1,6 +1,6 @@
 StartFontMetrics 3.0
 Comment Copyright (URW)++,Copyright 2014 by (URW)++ Design & Development
-Comment Creation Date: 7/20/2017
+Comment Creation Date: 5/26/2020
 FontName NimbusSans-BoldItalic
 FullName Nimbus Sans Bold Italic
 FamilyName Nimbus Sans
@@ -9,7 +9,7 @@ ItalicAngle -12.0
 IsFixedPitch false
 UnderlinePosition -111
 UnderlineThickness 69
-Version 1.00
+Version 1.10
 Notice (URW)++,Copyright 2014 by (URW)++ Design & Development
 EncodingScheme AdobeStandardEncoding
 FontBBox -144 -309 1196 1073
@@ -361,7 +361,7 @@ C -1 ; WX 643 ; N afii10025 ; B 106 -23 676 741 ;
 C -1 ; WX 719 ; N afii10026 ; B 65 0 809 729 ;
 C -1 ; WX 719 ; N afii10027 ; B 65 0 809 907 ;
 C -1 ; WX 615 ; N afii10028 ; B 56 0 701 729 ;
-C -1 ; WX 687 ; N afii10029 ; B -3 -1 772 729 ;
+C -1 ; WX 687 ; N afii10029 ; B -3 0 772 729 ;
 C -1 ; WX 833 ; N afii10030 ; B 61 0 926 729 ;
 C -1 ; WX 722 ; N afii10031 ; B 66 0 810 729 ;
 C -1 ; WX 778 ; N afii10032 ; B 108 -23 822 741 ;
@@ -390,7 +390,7 @@ C -1 ; WX 667 ; N afii10054 ; B 76 -23 719 741 ;
 C -1 ; WX 278 ; N afii10055 ; B 64 0 369 729 ;
 C -1 ; WX 278 ; N afii10056 ; B 63 0 482 920 ;
 C -1 ; WX 556 ; N afii10057 ; B 62 -23 645 729 ;
-C -1 ; WX 1094 ; N afii10058 ; B 16 -1 1083 729 ;
+C -1 ; WX 1094 ; N afii10058 ; B 16 0 1083 729 ;
 C -1 ; WX 1042 ; N afii10059 ; B 56 0 1061 729 ;
 C -1 ; WX 854 ; N afii10060 ; B 160 0 797 729 ;
 C -1 ; WX 622 ; N afii10061 ; B 60 0 707 907 ;
@@ -414,8 +414,8 @@ C -1 ; WX 611 ; N afii10080 ; B 85 -23 637 549 ;
 C -1 ; WX 611 ; N afii10081 ; B 76 0 649 540 ;
 C -1 ; WX 611 ; N afii10082 ; B 14 -218 640 549 ;
 C -1 ; WX 556 ; N afii10083 ; B 81 -22 598 549 ;
-C -1 ; WX 889 ; N afii10084 ; B 222 0 850 540 ;
-C -1 ; WX 556 ; N afii10085 ; B 49 -222 662 540 ;
+C -1 ; WX 409 ; N afii10084 ; B 106 0 503 540 ;
+C -1 ; WX 556 ; N afii10085 ; B 49 -218 662 540 ;
 C -1 ; WX 885 ; N afii10086 ; B 122 -218 879 736 ;
 C -1 ; WX 556 ; N afii10087 ; B 18 0 648 540 ;
 C -1 ; WX 646 ; N afii10088 ; B 87 -155 655 540 ;
@@ -440,7 +440,7 @@ C -1 ; WX 969 ; N afii10106 ; B 33 0 960 540 ;
 C -1 ; WX 906 ; N afii10107 ; B 70 0 912 540 ;
 C -1 ; WX 611 ; N afii10108 ; B 95 0 644 736 ;
 C -1 ; WX 507 ; N afii10109 ; B 57 0 596 756 ;
-C -1 ; WX 556 ; N afii10110 ; B 49 -222 662 739 ;
+C -1 ; WX 556 ; N afii10110 ; B 49 -218 662 739 ;
 C -1 ; WX 719 ; N afii10145 ; B 77 -159 798 729 ;
 C -1 ; WX 611 ; N afii10193 ; B 79 -157 647 540 ;
 C -1 ; WX 575 ; N afii10846 ; B 84 -23 606 549 ;
@@ -625,7 +625,7 @@ C -1 ; WX 584 ; N plusminus ; B 50 0 630 633 ;
 C -1 ; WX 996 ; N product ; B 132 -241 895 720 ;
 C -1 ; WX 1000 ; N propersubset ; B 233 0 767 494 ;
 C -1 ; WX 1000 ; N propersuperset ; B 233 0 767 494 ;
-C -1 ; WX 1000 ; N proportional ; B 197 102 682 379 ;
+C -1 ; WX 1000 ; N proportional ; B 197 105 682 379 ;
 C -1 ; WX 773 ; N psi ; B 108 -218 822 540 ;
 C -1 ; WX 278 ; N quotereversed ; B 201 469 368 729 ;
 C -1 ; WX 389 ; N racute ; B 63 0 500 757 ;
@@ -738,7 +738,7 @@ C -1 ; WX 611 ; N uni04E3 ; B 68 0 658 678 ;
 C -1 ; WX 778 ; N uni04E8 ; B 108 -23 822 741 ;
 C -1 ; WX 611 ; N uni04E9 ; B 85 -23 637 549 ;
 C -1 ; WX 677 ; N uni04EE ; B 79 0 808 877 ;
-C -1 ; WX 556 ; N uni04EF ; B 49 -222 662 692 ;
+C -1 ; WX 556 ; N uni04EF ; B 49 -218 662 692 ;
 C -1 ; WX 500 ; N uni2002 ; B 0 0 0 0 ;
 C -1 ; WX 333 ; N uni203E ; B 25 805 640 874 ;
 C -1 ; WX 916 ; N uni20AF ; B 37 -174 854 632 ;
@@ -783,10 +783,10 @@ C -1 ; WX 996 ; N uni22A2 ; B 181 0 809 556 ;
 C -1 ; WX 996 ; N uni22A3 ; B 181 0 809 556 ;
 C -1 ; WX 996 ; N uni22A4 ; B 222 0 768 632 ;
 C -1 ; WX 996 ; N uni22BB ; B 216 -145 779 582 ;
-C -1 ; WX 996 ; N uni256D ; B 466 -250 998 282 ;
-C -1 ; WX 996 ; N uni256E ; B -2 -250 530 282 ;
-C -1 ; WX 996 ; N uni256F ; B -2 219 530 750 ;
-C -1 ; WX 996 ; N uni2570 ; B 466 219 998 750 ;
+C -1 ; WX 996 ; N uni256D ; B 466 -250 997 282 ;
+C -1 ; WX 996 ; N uni256E ; B -2 -250 529 282 ;
+C -1 ; WX 996 ; N uni256F ; B -2 219 529 750 ;
+C -1 ; WX 996 ; N uni2570 ; B 466 219 997 750 ;
 C -1 ; WX 604 ; N uni25A1 ; B 43 0 562 519 ;
 C -1 ; WX 719 ; N uni25B5 ; B 122 37 598 508 ;
 C -1 ; WX 719 ; N uni25B9 ; B 127 31 593 512 ;
@@ -827,12 +827,12 @@ C -1 ; WX 996 ; N uniEFDA ; B 117 -25 880 739 ;
 C -1 ; WX 996 ; N uniEFDB ; B 117 -25 880 739 ;
 C -1 ; WX 719 ; N uniEFDC ; B 88 -199 399 883 ;
 C -1 ; WX 719 ; N uniEFDD ; B 313 -247 415 883 ;
-C -1 ; WX 719 ; N uniEFDE ; B 145 -247 416 749 ;
-C -1 ; WX 719 ; N uniEFDF ; B 313 -247 596 749 ;
-C -1 ; WX 719 ; N uniEFE0 ; B 145 -247 414 751 ;
-C -1 ; WX 719 ; N uniEFE1 ; B 313 -247 583 749 ;
-C -1 ; WX 719 ; N uniEFE2 ; B 139 -247 417 749 ;
-C -1 ; WX 719 ; N uniEFE3 ; B 313 -247 589 749 ;
+C -1 ; WX 719 ; N uniEFDE ; B 145 -247 414 749 ;
+C -1 ; WX 719 ; N uniEFDF ; B 313 -247 589 749 ;
+C -1 ; WX 719 ; N uniEFE0 ; B 145 -247 414 749 ;
+C -1 ; WX 719 ; N uniEFE1 ; B 313 -247 582 749 ;
+C -1 ; WX 719 ; N uniEFE2 ; B 139 -247 415 749 ;
+C -1 ; WX 719 ; N uniEFE3 ; B 313 -247 582 749 ;
 C -1 ; WX 719 ; N uniEFE4 ; B 1 -192 400 883 ;
 C -1 ; WX 719 ; N uniEFE5 ; B 1 -194 400 884 ;
 C -1 ; WX 719 ; N uniEFE6 ; B 320 -192 720 883 ;
@@ -875,7 +875,7 @@ C -1 ; WX 333 ; N zerosuperior ; B 100 271 435 718 ;
 C -1 ; WX 492 ; N zeta ; B 80 -218 619 729 ;
 EndCharMetrics
 StartKernData
-StartKernPairs 3820
+StartKernPairs 3818
 KPX A A 5
 KPX A B -23
 KPX A C -28
@@ -1002,7 +1002,7 @@ KPX Acircumflex v -36
 KPX Acircumflex w -22
 KPX Acircumflex yacute -34
 KPX Adieresis C -29
-KPX Adieresis G -33
+KPX Adieresis G -29
 KPX Adieresis O -29
 KPX Adieresis Q -30
 KPX Adieresis T -87
@@ -1105,7 +1105,7 @@ KPX Aring w -22
 KPX Aring y -34
 KPX Atilde C -30
 KPX Atilde G -34
-KPX Atilde O -33
+KPX Atilde O -30
 KPX Atilde Q -31
 KPX Atilde T -89
 KPX Atilde U -33
@@ -1155,7 +1155,7 @@ KPX C OE 8
 KPX C Oacute -3
 KPX C Odieresis -3
 KPX C S 4
-KPX C T -13
+KPX C T -14
 KPX C V -29
 KPX C W -14
 KPX C Y -51
@@ -1233,7 +1233,7 @@ KPX E O -14
 KPX E Oacute -14
 KPX E Odieresis -14
 KPX E Omicron -14
-KPX E Phi -39
+KPX E Phi -34
 KPX E S -8
 KPX E T -8
 KPX E Theta -14
@@ -1258,7 +1258,7 @@ KPX E k -4
 KPX E l -8
 KPX E nu -26
 KPX E o -12
-KPX E q -7
+KPX E q -2
 KPX E quotedblright -11
 KPX E quoteright -7
 KPX E quotesingle -3
@@ -1271,7 +1271,7 @@ KPX E y -27
 KPX E z -1
 KPX Epsilon O -14
 KPX Epsilon Omicron -14
-KPX Epsilon Phi -39
+KPX Epsilon Phi -34
 KPX Epsilon Theta -14
 KPX Epsilon delta -13
 KPX Epsilon gamma -31
@@ -1362,8 +1362,8 @@ KPX Gamma A -100
 KPX Gamma Alpha -100
 KPX Gamma Delta -44
 KPX Gamma Lambda -87
-KPX Gamma O -35
-KPX Gamma Omicron -35
+KPX Gamma O -36
+KPX Gamma Omicron -36
 KPX Gamma Y 3
 KPX Gamma alpha -121
 KPX Gamma alphatonos -82
@@ -1453,8 +1453,8 @@ KPX K l -9
 KPX K o -45
 KPX K oacute -45
 KPX K odieresis -45
-KPX K oe -40
-KPX K omega -59
+KPX K oe -39
+KPX K omega -60
 KPX K omicron -50
 KPX K omicrontonos -50
 KPX K parenright -1
@@ -1475,7 +1475,7 @@ KPX Kappa colon -23
 KPX Kappa comma 1
 KPX Kappa epsilontonos -26
 KPX Kappa o -45
-KPX Kappa omega -59
+KPX Kappa omega -60
 KPX Kappa omicron -50
 KPX Kappa omicrontonos -50
 KPX Kappa period 1
@@ -1587,8 +1587,8 @@ KPX N C 7
 KPX N Ccedilla 7
 KPX N G 3
 KPX N O 4
-KPX N Oacute 7
-KPX N Odieresis 7
+KPX N Oacute 4
+KPX N Odieresis 4
 KPX N T -7
 KPX N W -3
 KPX N Y -18
@@ -1635,10 +1635,10 @@ KPX O OE 8
 KPX O P 1
 KPX O Psi -10
 KPX O S 1
-KPX O T -34
-KPX O Tau -34
+KPX O T -33
+KPX O Tau -33
 KPX O Upsilon -55
-KPX O V -33
+KPX O V -30
 KPX O W -16
 KPX O X -31
 KPX O Y -55
@@ -1662,7 +1662,7 @@ KPX OE X 2
 KPX OE Z -1
 KPX Oacute A -33
 KPX Oacute T -33
-KPX Oacute V -33
+KPX Oacute V -30
 KPX Oacute W -16
 KPX Oacute Y -55
 KPX Oacute Z -21
@@ -1671,11 +1671,11 @@ KPX Oacute comma -6
 KPX Oacute period -3
 KPX Oacute semicolon 28
 KPX Ocircumflex T -33
-KPX Ocircumflex V -33
+KPX Ocircumflex V -30
 KPX Ocircumflex Y -55
 KPX Odieresis A -33
 KPX Odieresis T -33
-KPX Odieresis V -33
+KPX Odieresis V -30
 KPX Odieresis W -16
 KPX Odieresis X -31
 KPX Odieresis Y -55
@@ -1684,7 +1684,7 @@ KPX Odieresis comma -6
 KPX Odieresis period -3
 KPX Odieresis semicolon 28
 KPX Ograve T -33
-KPX Ograve V -33
+KPX Ograve V -30
 KPX Ograve Y -55
 KPX Omicron A -33
 KPX Omicron Alpha -33
@@ -1692,7 +1692,7 @@ KPX Omicron Chi -31
 KPX Omicron Delta 9
 KPX Omicron Lambda -18
 KPX Omicron Psi -10
-KPX Omicron Tau -34
+KPX Omicron Tau -33
 KPX Omicron Upsilon -55
 KPX Omicron Y -55
 KPX Omicron Zeta -21
@@ -1700,7 +1700,7 @@ KPX Omicron lambda -19
 KPX Omicrontonos lambda -26
 KPX Oslash A -26
 KPX Otilde T -33
-KPX Otilde V -33
+KPX Otilde V -30
 KPX Otilde Y -55
 KPX P A -62
 KPX P AE -55
@@ -1728,7 +1728,7 @@ KPX P O -12
 KPX P OE -4
 KPX P Omicron -12
 KPX P P -20
-KPX P Q -13
+KPX P Q -12
 KPX P R -22
 KPX P S -11
 KPX P T -5
@@ -1856,7 +1856,7 @@ KPX Rho Alpha -62
 KPX Rho Delta -23
 KPX Rho Lambda -46
 KPX Rho Omicron -12
-KPX Rho Phi -17
+KPX Rho Phi -18
 KPX Rho Tau -5
 KPX Rho Theta -10
 KPX Rho Upsilon -43
@@ -1898,7 +1898,7 @@ KPX S l 8
 KPX S o 7
 KPX S odieresis 7
 KPX S oe 13
-KPX S q 12
+KPX S q 15
 KPX S quotedblright -2
 KPX S quoteright 1
 KPX S t 7
@@ -1939,16 +1939,16 @@ KPX T M -10
 KPX T N -11
 KPX T O -32
 KPX T OE -20
-KPX T Oacute -31
-KPX T Ocircumflex -31
-KPX T Odieresis -31
-KPX T Ograve -31
-KPX T Ohungarumlaut -31
+KPX T Oacute -32
+KPX T Ocircumflex -32
+KPX T Odieresis -32
+KPX T Ograve -32
+KPX T Ohungarumlaut -32
 KPX T Omicron -32
 KPX T Oslash -37
-KPX T Otilde -31
+KPX T Otilde -32
 KPX T P -15
-KPX T Phi -56
+KPX T Phi -55
 KPX T Q -32
 KPX T R -17
 KPX T S -7
@@ -2029,7 +2029,7 @@ KPX Tau Alpha -80
 KPX Tau Lambda -71
 KPX Tau O -32
 KPX Tau Omicron -32
-KPX Tau Phi -56
+KPX Tau Phi -55
 KPX Tau T 15
 KPX Tau Tau 15
 KPX Tau Upsilon 6
@@ -2060,7 +2060,7 @@ KPX Tcaron Acircumflex -80
 KPX Tcaron Adieresis -80
 KPX Tcaron Aogonek -80
 KPX Tcaron J -84
-KPX Tcaron Odieresis -31
+KPX Tcaron Odieresis -32
 KPX Tcaron aacute -66
 KPX Tcaron aogonek -66
 KPX Tcaron colon -48
@@ -2346,7 +2346,7 @@ KPX X Q -32
 KPX X T 12
 KPX X W 11
 KPX X Y 3
-KPX X a -17
+KPX X a -18
 KPX X ae -18
 KPX X alpha -31
 KPX X alphatonos -33
@@ -2475,7 +2475,7 @@ KPX Z E -15
 KPX Z I -7
 KPX Z O -23
 KPX Z OE -11
-KPX Z Oacute -19
+KPX Z Oacute -23
 KPX Z U -16
 KPX Z W 4
 KPX Z Y -4
@@ -2523,7 +2523,7 @@ KPX adieresis endash 38
 KPX adieresis g 2
 KPX adieresis germandbls 2
 KPX adieresis period 5
-KPX adieresis quoteright -9
+KPX adieresis quoteright -8
 KPX adieresis t -1
 KPX adieresis v -17
 KPX adieresis w -3
@@ -2554,7 +2554,7 @@ KPX afii10017 afii10073 -19
 KPX afii10017 afii10077 1
 KPX afii10017 afii10080 -13
 KPX afii10017 afii10083 -11
-KPX afii10017 afii10084 -119
+KPX afii10017 afii10084 -32
 KPX afii10017 afii10085 -37
 KPX afii10017 afii10086 -37
 KPX afii10017 afii10089 -42
@@ -2575,7 +2575,7 @@ KPX afii10018 afii10042 -7
 KPX afii10018 afii10060 -41
 KPX afii10018 afii10062 -35
 KPX afii10018 afii10072 -2
-KPX afii10018 afii10084 -121
+KPX afii10018 afii10084 -32
 KPX afii10018 afii10085 -33
 KPX afii10018 afii10092 -52
 KPX afii10018 afii10106 -14
@@ -2585,11 +2585,11 @@ KPX afii10019 afii10024 -4
 KPX afii10019 afii10036 -28
 KPX afii10019 afii10037 -35
 KPX afii10019 afii10041 -16
-KPX afii10019 afii10042 -1
+KPX afii10019 afii10042 2
 KPX afii10019 afii10060 -37
 KPX afii10019 afii10062 -39
 KPX afii10019 afii10072 5
-KPX afii10019 afii10084 -75
+KPX afii10019 afii10084 -17
 KPX afii10019 afii10085 -21
 KPX afii10019 afii10089 -24
 KPX afii10019 afii10092 -17
@@ -2622,7 +2622,7 @@ KPX afii10020 afii10080 -138
 KPX afii10020 afii10081 -123
 KPX afii10020 afii10082 -111
 KPX afii10020 afii10083 -136
-KPX afii10020 afii10084 -151
+KPX afii10020 afii10084 -93
 KPX afii10020 afii10085 -91
 KPX afii10020 afii10086 -137
 KPX afii10020 afii10087 -99
@@ -2649,7 +2649,7 @@ KPX afii10024 afii10065 3
 KPX afii10024 afii10070 3
 KPX afii10024 afii10073 -10
 KPX afii10024 afii10080 -2
-KPX afii10024 afii10084 -87
+KPX afii10024 afii10084 -21
 KPX afii10024 afii10085 -27
 KPX afii10024 afii10086 -29
 KPX afii10024 afii10089 -33
@@ -2669,7 +2669,7 @@ KPX afii10025 afii10058 -13
 KPX afii10025 afii10060 -37
 KPX afii10025 afii10062 -45
 KPX afii10025 afii10077 -21
-KPX afii10025 afii10084 -78
+KPX afii10025 afii10084 -20
 KPX afii10025 afii10085 -23
 KPX afii10025 afii10087 -24
 KPX afii10025 afii10089 -29
@@ -2687,7 +2687,7 @@ KPX afii10028 afii10070 -12
 KPX afii10028 afii10073 -25
 KPX afii10028 afii10080 -18
 KPX afii10028 afii10083 -16
-KPX afii10028 afii10084 -103
+KPX afii10028 afii10084 -37
 KPX afii10028 afii10085 -42
 KPX afii10028 afii10086 -45
 KPX afii10028 afii10089 -49
@@ -2747,7 +2747,6 @@ KPX afii10035 afii10049 -13
 KPX afii10035 afii10058 -7
 KPX afii10035 afii10060 -28
 KPX afii10035 afii10062 -44
-KPX afii10035 afii10084 -58
 KPX afii10035 afii10085 -7
 KPX afii10035 afii10089 -13
 KPX afii10035 afii10106 -16
@@ -2761,7 +2760,7 @@ KPX afii10036 afii10035 -25
 KPX afii10036 afii10036 15
 KPX afii10036 afii10037 3
 KPX afii10036 afii10038 -37
-KPX afii10036 afii10049 -24
+KPX afii10036 afii10049 -25
 KPX afii10036 afii10053 -24
 KPX afii10036 afii10058 -30
 KPX afii10036 afii10060 6
@@ -2782,7 +2781,7 @@ KPX afii10036 afii10080 -71
 KPX afii10036 afii10081 -73
 KPX afii10036 afii10082 -66
 KPX afii10036 afii10083 -69
-KPX afii10036 afii10084 -121
+KPX afii10036 afii10084 -63
 KPX afii10036 afii10085 -61
 KPX afii10036 afii10086 -96
 KPX afii10036 afii10087 -69
@@ -2808,7 +2807,7 @@ KPX afii10037 afii10035 -53
 KPX afii10037 afii10036 10
 KPX afii10037 afii10037 -2
 KPX afii10037 afii10038 -51
-KPX afii10037 afii10049 -54
+KPX afii10037 afii10049 -55
 KPX afii10037 afii10053 -50
 KPX afii10037 afii10058 -35
 KPX afii10037 afii10060 1
@@ -2827,14 +2826,14 @@ KPX afii10037 afii10080 -71
 KPX afii10037 afii10081 -63
 KPX afii10037 afii10082 -53
 KPX afii10037 afii10083 -69
-KPX afii10037 afii10084 -91
+KPX afii10037 afii10084 -33
 KPX afii10037 afii10085 -33
 KPX afii10037 afii10086 -95
 KPX afii10037 afii10087 -39
 KPX afii10037 afii10088 -69
 KPX afii10037 afii10089 -46
 KPX afii10037 afii10096 -52
-KPX afii10037 afii10097 -70
+KPX afii10037 afii10097 -69
 KPX afii10037 afii10101 -65
 KPX afii10037 afii10106 -86
 KPX afii10037 afii10110 -31
@@ -2863,12 +2862,12 @@ KPX afii10039 afii10032 -33
 KPX afii10039 afii10035 -31
 KPX afii10039 afii10038 -38
 KPX afii10039 afii10053 -29
-KPX afii10039 afii10065 -24
+KPX afii10039 afii10065 -23
 KPX afii10039 afii10070 -32
 KPX afii10039 afii10073 -38
 KPX afii10039 afii10080 -37
 KPX afii10039 afii10083 -35
-KPX afii10039 afii10084 -110
+KPX afii10039 afii10084 -52
 KPX afii10039 afii10085 -51
 KPX afii10039 afii10086 -61
 KPX afii10039 afii10089 -65
@@ -2922,7 +2921,7 @@ KPX afii10050 afii10036 -4
 KPX afii10050 afii10037 -17
 KPX afii10050 afii10038 -57
 KPX afii10050 afii10041 -15
-KPX afii10050 afii10049 -44
+KPX afii10050 afii10049 -45
 KPX afii10050 afii10053 -44
 KPX afii10050 afii10058 -50
 KPX afii10050 afii10060 -13
@@ -2942,7 +2941,7 @@ KPX afii10050 afii10080 -105
 KPX afii10050 afii10081 -108
 KPX afii10050 afii10082 -98
 KPX afii10050 afii10083 -103
-KPX afii10050 afii10084 -141
+KPX afii10050 afii10084 -83
 KPX afii10050 afii10085 -81
 KPX afii10050 afii10086 -127
 KPX afii10050 afii10087 -89
@@ -2981,7 +2980,7 @@ KPX afii10052 afii10080 -138
 KPX afii10052 afii10081 -123
 KPX afii10052 afii10082 -110
 KPX afii10052 afii10083 -136
-KPX afii10052 afii10084 -150
+KPX afii10052 afii10084 -92
 KPX afii10052 afii10085 -90
 KPX afii10052 afii10086 -136
 KPX afii10052 afii10087 -98
@@ -3018,7 +3017,7 @@ KPX afii10061 afii10070 -18
 KPX afii10061 afii10073 -31
 KPX afii10061 afii10080 -23
 KPX afii10061 afii10083 -26
-KPX afii10061 afii10084 -103
+KPX afii10061 afii10084 -43
 KPX afii10061 afii10085 -46
 KPX afii10061 afii10086 -51
 KPX afii10061 afii10089 -55
@@ -3032,7 +3031,7 @@ KPX afii10062 afii10032 -53
 KPX afii10062 afii10035 -52
 KPX afii10062 afii10036 10
 KPX afii10062 afii10038 -50
-KPX afii10062 afii10049 -53
+KPX afii10062 afii10049 -54
 KPX afii10062 afii10053 -52
 KPX afii10062 afii10058 -34
 KPX afii10062 afii10060 1
@@ -3051,7 +3050,7 @@ KPX afii10062 afii10080 -76
 KPX afii10062 afii10081 -63
 KPX afii10062 afii10082 -53
 KPX afii10062 afii10083 -74
-KPX afii10062 afii10084 -90
+KPX afii10062 afii10084 -32
 KPX afii10062 afii10086 -97
 KPX afii10062 afii10087 -38
 KPX afii10062 afii10088 -68
@@ -3060,21 +3059,21 @@ KPX afii10062 afii10096 -51
 KPX afii10062 afii10097 -69
 KPX afii10062 afii10101 -70
 KPX afii10062 afii10106 -86
-KPX afii10065 afii10084 -70
+KPX afii10065 afii10084 -12
 KPX afii10065 afii10085 -19
 KPX afii10065 afii10089 -18
 KPX afii10065 afii10106 -3
 KPX afii10065 afii10110 -14
 KPX afii10066 afii10072 1
 KPX afii10066 afii10073 -11
-KPX afii10066 afii10084 -78
+KPX afii10066 afii10084 -19
 KPX afii10066 afii10085 -25
 KPX afii10066 afii10087 -24
 KPX afii10066 afii10089 -13
 KPX afii10066 afii10097 -4
 KPX afii10066 afii10110 -20
 KPX afii10067 afii10073 -10
-KPX afii10067 afii10084 -72
+KPX afii10067 afii10084 -14
 KPX afii10067 afii10085 -26
 KPX afii10067 afii10087 -23
 KPX afii10067 afii10089 -25
@@ -3110,7 +3109,7 @@ KPX afii10072 afii10101 11
 KPX afii10072 afii10110 8
 KPX afii10073 afii10072 4
 KPX afii10073 afii10077 -6
-KPX afii10073 afii10084 -68
+KPX afii10073 afii10084 -10
 KPX afii10073 afii10085 -21
 KPX afii10073 afii10087 -18
 KPX afii10073 afii10089 -20
@@ -3128,7 +3127,7 @@ KPX afii10076 afii10101 3
 KPX afii10080 afii10072 3
 KPX afii10080 afii10073 -9
 KPX afii10080 afii10077 -16
-KPX afii10080 afii10084 -76
+KPX afii10080 afii10084 -18
 KPX afii10080 afii10085 -22
 KPX afii10080 afii10087 -19
 KPX afii10080 afii10092 -18
@@ -3137,7 +3136,7 @@ KPX afii10080 afii10110 -17
 KPX afii10082 afii10072 9
 KPX afii10082 afii10073 -5
 KPX afii10082 afii10077 -11
-KPX afii10082 afii10084 -73
+KPX afii10082 afii10084 -15
 KPX afii10082 afii10085 -21
 KPX afii10082 afii10087 -18
 KPX afii10082 afii10089 -10
@@ -3152,34 +3151,33 @@ KPX afii10083 afii10065 4
 KPX afii10083 afii10072 3
 KPX afii10083 afii10073 -5
 KPX afii10083 afii10077 -7
-KPX afii10083 afii10084 -64
+KPX afii10083 afii10084 -6
 KPX afii10083 afii10085 -23
 KPX afii10083 afii10086 -21
 KPX afii10083 afii10087 -20
 KPX afii10083 afii10089 -8
 KPX afii10083 afii10097 -4
 KPX afii10083 afii10106 -9
-KPX afii10084 afii10065 -70
-KPX afii10084 afii10069 -121
-KPX afii10084 afii10070 -74
-KPX afii10084 afii10073 -70
-KPX afii10084 afii10077 -106
-KPX afii10084 afii10080 -80
-KPX afii10084 afii10083 -79
-KPX afii10084 afii10084 -112
-KPX afii10084 afii10085 -58
-KPX afii10084 afii10086 -98
-KPX afii10084 afii10089 -67
-KPX afii10084 afii10097 -71
-KPX afii10084 afii10101 -72
-KPX afii10084 afii10106 -107
-KPX afii10084 afii10110 -58
-KPX afii10084 colon -104
-KPX afii10084 comma -151
-KPX afii10084 guillemotright -90
-KPX afii10084 hyphen -132
-KPX afii10084 period -151
-KPX afii10084 semicolon -104
+KPX afii10084 afii10065 -3
+KPX afii10084 afii10069 -42
+KPX afii10084 afii10070 -8
+KPX afii10084 afii10073 -4
+KPX afii10084 afii10077 -34
+KPX afii10084 afii10080 -13
+KPX afii10084 afii10083 -12
+KPX afii10084 afii10084 12
+KPX afii10084 afii10085 8
+KPX afii10084 afii10086 -31
+KPX afii10084 afii10097 -5
+KPX afii10084 afii10101 -6
+KPX afii10084 afii10106 -36
+KPX afii10084 afii10110 7
+KPX afii10084 colon -2
+KPX afii10084 comma -28
+KPX afii10084 guillemotright -24
+KPX afii10084 hyphen -12
+KPX afii10084 period -27
+KPX afii10084 semicolon -3
 KPX afii10085 afii10065 -16
 KPX afii10085 afii10069 -42
 KPX afii10085 afii10070 -12
@@ -3187,10 +3185,10 @@ KPX afii10085 afii10073 -17
 KPX afii10085 afii10077 -33
 KPX afii10085 afii10080 -17
 KPX afii10085 afii10083 -15
-KPX afii10085 afii10084 -43
+KPX afii10085 afii10084 14
 KPX afii10085 afii10086 -40
 KPX afii10085 afii10089 1
-KPX afii10085 afii10097 -19
+KPX afii10085 afii10097 -18
 KPX afii10085 afii10101 -11
 KPX afii10085 afii10106 -35
 KPX afii10085 comma -43
@@ -3203,7 +3201,7 @@ KPX afii10086 afii10069 -39
 KPX afii10086 afii10072 -20
 KPX afii10086 afii10073 -32
 KPX afii10086 afii10077 -41
-KPX afii10086 afii10084 -94
+KPX afii10086 afii10084 -36
 KPX afii10086 afii10085 -47
 KPX afii10086 afii10087 -49
 KPX afii10086 afii10089 -27
@@ -3221,20 +3219,20 @@ KPX afii10087 afii10101 -14
 KPX afii10087 afii10110 6
 KPX afii10092 afii10070 -12
 KPX afii10092 afii10083 -15
-KPX afii10092 afii10084 -148
+KPX afii10092 afii10084 -49
 KPX afii10092 afii10085 -56
 KPX afii10092 afii10089 -29
 KPX afii10092 afii10092 -71
 KPX afii10092 afii10110 -51
 KPX afii10094 afii10070 -10
 KPX afii10094 afii10083 -14
-KPX afii10094 afii10084 -147
+KPX afii10094 afii10084 -48
 KPX afii10094 afii10085 -55
 KPX afii10094 afii10089 -27
 KPX afii10094 afii10092 -70
 KPX afii10094 afii10110 -49
 KPX afii10095 afii10077 -8
-KPX afii10095 afii10084 -68
+KPX afii10095 afii10084 -10
 KPX afii10095 afii10085 -14
 KPX afii10095 afii10089 -3
 KPX afii10095 afii10092 -10
@@ -3244,7 +3242,7 @@ KPX afii10095 afii10110 -9
 KPX afii10096 afii10072 1
 KPX afii10096 afii10073 -11
 KPX afii10096 afii10077 -18
-KPX afii10096 afii10084 -79
+KPX afii10096 afii10084 -21
 KPX afii10096 afii10085 -24
 KPX afii10096 afii10087 -21
 KPX afii10096 afii10089 -13
@@ -3267,14 +3265,14 @@ KPX afii10100 afii10086 -41
 KPX afii10100 afii10097 -15
 KPX afii10100 afii10101 -16
 KPX afii10100 afii10106 -51
-KPX afii10106 afii10084 -149
+KPX afii10106 afii10084 -50
 KPX afii10106 afii10085 -57
 KPX afii10106 afii10089 -29
 KPX afii10106 afii10092 -72
 KPX afii10106 afii10110 -51
 KPX afii10107 afii10070 -5
 KPX afii10107 afii10083 -8
-KPX afii10107 afii10084 -141
+KPX afii10107 afii10084 -42
 KPX afii10107 afii10085 -49
 KPX afii10107 afii10089 -22
 KPX afii10107 afii10092 -64
@@ -3296,7 +3294,7 @@ KPX afii10110 afii10073 -17
 KPX afii10110 afii10077 -28
 KPX afii10110 afii10080 -12
 KPX afii10110 afii10083 -10
-KPX afii10110 afii10084 -44
+KPX afii10110 afii10084 13
 KPX afii10110 afii10086 -35
 KPX afii10110 afii10097 -14
 KPX afii10110 afii10101 -6
@@ -3305,7 +3303,7 @@ KPX agrave w -4
 KPX agrave y -14
 KPX alpha colon 26
 KPX alpha comma 19
-KPX alpha delta 3
+KPX alpha delta 7
 KPX alpha epsilon 16
 KPX alpha exclam -13
 KPX alpha gamma 20
@@ -3343,6 +3341,7 @@ KPX aring v -16
 KPX aring w -4
 KPX aring y -14
 KPX asterisk period -26
+KPX b asterisk 1
 KPX b colon 18
 KPX b comma -3
 KPX b endash 52
@@ -3461,7 +3460,7 @@ KPX ccaron o -1
 KPX chi alpha -32
 KPX chi alphatonos -34
 KPX chi epsilon -29
-KPX chi epsilontonos -32
+KPX chi epsilontonos -27
 KPX chi o -35
 KPX chi omega -51
 KPX chi omegatonos -51
@@ -3487,8 +3486,8 @@ KPX d v -12
 KPX d w -1
 KPX d y -8
 KPX d z -7
-KPX dcaron a -40
-KPX dcaron aacute -40
+KPX dcaron a -41
+KPX dcaron aacute -41
 KPX dcaron colon -37
 KPX dcaron comma -56
 KPX dcaron e -39
@@ -3499,15 +3498,15 @@ KPX dcaron o -48
 KPX dcaron oacute -48
 KPX dcaron period -57
 KPX dcaron r -14
-KPX dcaron s -45
+KPX dcaron s -46
 KPX dcaron semicolon -37
-KPX dcaron u -15
+KPX dcaron u -16
 KPX dcaron uacute -12
 KPX dcaron udieresis -12
 KPX dcaron uring -12
 KPX dcaron y 11
 KPX dcaron yacute 15
-KPX dcaron z -5
+KPX dcaron z -6
 KPX delta nu -18
 KPX e a 3
 KPX e adieresis 3
@@ -3588,7 +3587,7 @@ KPX endash z -1
 KPX eogonek zdotaccent -8
 KPX epsilon alpha 17
 KPX epsilon alphatonos 14
-KPX epsilon chi -14
+KPX epsilon chi -16
 KPX epsilon delta 13
 KPX epsilon epsilon 28
 KPX epsilon epsilontonos 25
@@ -3702,8 +3701,8 @@ KPX gamma epsilon -16
 KPX gamma epsilontonos -20
 KPX gamma lambda -51
 KPX gamma o -23
-KPX gamma omega -34
-KPX gamma omegatonos -34
+KPX gamma omega -39
+KPX gamma omegatonos -39
 KPX gamma omicron -24
 KPX gamma omicrontonos -24
 KPX gamma rho -27
@@ -3726,7 +3725,7 @@ KPX guillemotleft afii10037 -56
 KPX guillemotleft afii10041 -23
 KPX guillemotleft afii10049 -25
 KPX guillemotleft afii10077 -30
-KPX guillemotleft afii10084 -80
+KPX guillemotleft afii10084 -22
 KPX guillemotleft afii10085 -35
 KPX guillemotleft afii10089 -30
 KPX guillemotleft nu -31
@@ -3772,7 +3771,7 @@ KPX hyphen adieresis 16
 KPX hyphen afii10017 2
 KPX hyphen afii10036 -57
 KPX hyphen afii10037 -43
-KPX hyphen afii10084 -135
+KPX hyphen afii10084 -17
 KPX hyphen afii10085 -6
 KPX hyphen f 4
 KPX hyphen g 31
@@ -3897,8 +3896,8 @@ KPX lambda tau -41
 KPX lambda upsilon -17
 KPX lambda upsilontonos -17
 KPX lambda xi -17
-KPX lcaron a -45
-KPX lcaron aacute -45
+KPX lcaron a -44
+KPX lcaron aacute -44
 KPX lcaron ccaron -51
 KPX lcaron colon -40
 KPX lcaron comma -59
@@ -3906,27 +3905,28 @@ KPX lcaron d -50
 KPX lcaron dcaron -55
 KPX lcaron e -42
 KPX lcaron eacute -42
-KPX lcaron f 7
+KPX lcaron f 8
 KPX lcaron g -52
 KPX lcaron o -57
 KPX lcaron oacute -57
 KPX lcaron ocircumflex -48
-KPX lcaron p -15
+KPX lcaron p -14
 KPX lcaron period -60
-KPX lcaron s -50
+KPX lcaron s -49
 KPX lcaron scaron -46
 KPX lcaron semicolon -40
-KPX lcaron t 7
-KPX lcaron u -19
-KPX lcaron uacute -16
-KPX lcaron uring -16
-KPX lcaron z -9
-KPX lcaron zcaron -6
+KPX lcaron t 8
+KPX lcaron u -18
+KPX lcaron uacute -15
+KPX lcaron uring -15
+KPX lcaron v 1
+KPX lcaron z -8
+KPX lcaron zcaron -5
 KPX m endash 39
 KPX m g 1
 KPX m p 5
 KPX m v -16
-KPX m w -2
+KPX m w -4
 KPX m y -14
 KPX m z -10
 KPX n T -80
@@ -3971,7 +3971,7 @@ KPX o lambda -24
 KPX o nu -20
 KPX o period -7
 KPX o pi -19
-KPX o quoteright -12
+KPX o quoteright -11
 KPX o semicolon 15
 KPX o t -4
 KPX o tau -18
@@ -3988,7 +3988,7 @@ KPX odieresis endash 49
 KPX odieresis g -1
 KPX odieresis j -4
 KPX odieresis period -7
-KPX odieresis quoteright -12
+KPX odieresis quoteright -11
 KPX odieresis semicolon 15
 KPX odieresis t -4
 KPX odieresis v -20
@@ -4022,13 +4022,13 @@ KPX omicron chi -36
 KPX omicron gamma -22
 KPX omicron lambda -23
 KPX omicron nu -18
-KPX omicron pi -18
+KPX omicron pi -15
 KPX omicron tau -19
 KPX omicron upsilon 3
 KPX omicrontonos chi -36
 KPX omicrontonos gamma -22
 KPX omicrontonos nu -18
-KPX omicrontonos pi -18
+KPX omicrontonos pi -15
 KPX omicrontonos tau -19
 KPX p asterisk -1
 KPX p endash 50
@@ -4138,7 +4138,6 @@ KPX quotedblleft g -6
 KPX quotedblleft o -13
 KPX quotedblleft odieresis -13
 KPX quotedblleft oe -7
-KPX quotedblleft q -4
 KPX quotedblleft s -6
 KPX quotedblleft t 10
 KPX quotedblleft v 8
@@ -4185,7 +4184,7 @@ KPX quoteleft g -11
 KPX quoteleft o -17
 KPX quoteleft odieresis -17
 KPX quoteleft oe -12
-KPX quoteleft q -8
+KPX quoteleft q -4
 KPX quoteleft s -10
 KPX quoteleft t 5
 KPX quoteleft v 3
@@ -4204,15 +4203,15 @@ KPX quoteright comma -47
 KPX quoteright d -25
 KPX quoteright o -26
 KPX quoteright odieresis -26
-KPX quoteright parenright 43
+KPX quoteright parenright 38
 KPX quoteright period -45
 KPX quoteright r -17
 KPX quoteright s -19
 KPX quoteright sacute -19
 KPX quoteright scaron -19
-KPX quoteright scedilla -15
+KPX quoteright scedilla -19
 KPX quoteright t -4
-KPX quoteright v -5
+KPX quoteright v -8
 KPX quoteright w -1
 KPX quoteright y -4
 KPX quotesinglbase A 7
@@ -4285,7 +4284,6 @@ KPX r ohungarumlaut -8
 KPX r oslash -9
 KPX r p -7
 KPX r period -55
-KPX r q -2
 KPX r question -12
 KPX r quotedblright 6
 KPX r quoteright 10
@@ -4477,7 +4475,7 @@ KPX tcaron r -31
 KPX tcaron rcaron 6
 KPX tcaron s -35
 KPX tcaron scaron -25
-KPX tcaron t -8
+KPX tcaron t -9
 KPX tcaron u -32
 KPX tcaron uacute -32
 KPX tcaron uring -32
@@ -4603,7 +4601,7 @@ KPX x hyphen -26
 KPX x o -23
 KPX x odieresis -23
 KPX x period -6
-KPX x q -18
+KPX x q -13
 KPX x question -15
 KPX x quotedblright -11
 KPX x quoteright -7
@@ -4690,8 +4688,8 @@ KPX zeta alphatonos -32
 KPX zeta epsilon -7
 KPX zeta epsilontonos -10
 KPX zeta o -29
-KPX zeta omega -42
-KPX zeta omegatonos -42
+KPX zeta omega -43
+KPX zeta omegatonos -43
 KPX zeta omicron -33
 KPX zeta omicrontonos -33
 KPX zeta upsilon -25
